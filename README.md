@@ -114,6 +114,8 @@ You can visualize the emotion distribution and time-based analysis using `Stream
 
 ![riley](riley.png)
 
+In Inside Out, we watch Riley’s journey as she slowly sinks into sadness while facing big life changes, but as the story unfolds and reaches its beautiful ending, she rediscovers joy, healing, and happiness within herself. It’s a touching reminder that even in our hardest moments, light and hope can return:)
+
 1. Install Streamlit:
 
 ```bash
