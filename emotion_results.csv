@@ -1,0 +1,3123 @@
+line,emotion,score
+[♪ wistful music playing],fear,0.9126898050308228
+[♪ exhilarating music playing],joy,0.9899235367774963
+Let's play some hockey!,joy,0.6714611649513245
+[audience cheering],joy,0.977969765663147
+"This is Joy, coming to you",joy,0.8350217938423157
+"live in Riley's mind,",neutral,0.8576005697250366
+and we are expecting,surprise,0.7576049566268921
+a great championship today,joy,0.9011245369911194
+- <i>with the Foghorns.</i>,neutral,0.5173801779747009
+- [girls chuckle],joy,0.8861047029495239
+"Riley fans, get up on your feet,",neutral,0.8445128798484802
+and make some noise!,anger,0.9470958709716797
+"Go, go, go!",anger,0.8737501502037048
+"- [all] Let's go, Foghorns!",joy,0.5044153332710266
+- [rhythmic hand claps],neutral,0.7688621878623962
+Bring it in!,anger,0.27751314640045166
+Foghorns on three.,neutral,0.5798439979553223
+"- One, two, three...",neutral,0.7209740281105042
+- [all] Foghorns!,disgust,0.7253937721252441
+[referee blows whistle],anger,0.7001533508300781
+[players grunting],disgust,0.7927693724632263
+[Riley panting],neutral,0.6158643364906311
+"Now, it's time to greet",joy,0.7297195196151733
+your Team Riley!,neutral,0.4240749180316925
+"Playing in his 13th year,",joy,0.43534693121910095
+"and fresh from the penalty box,",neutral,0.5185834765434265
+it's Riley's Anger!,anger,0.9833424091339111
+Let me at 'em! [roars],anger,0.6223863363265991
+[growls],neutral,0.8287100195884705
+- [Riley growling],anger,0.7303506135940552
+- [players grunting],disgust,0.5466657280921936
+- [all cheering],joy,0.9762252569198608
+- Whoo!,surprise,0.8037703633308411
+"Helmet, pads, gloves,",neutral,0.8792153000831604
+safety checklist is complete.,neutral,0.9196892380714417
+It should be nothing,neutral,0.4081595242023468
+but smooth sailing from...,joy,0.648272693157196
+[screams] Look out!,fear,0.5148018002510071
+[Riley grunts],disgust,0.7054954171180725
+"And that's Fear,",fear,0.9615886211395264
+keeping Riley on her toes.,neutral,0.5490075945854187
+We gotta get,neutral,0.7733888030052185
+"our mouth guard, people.",neutral,0.6022495627403259
+"No, no, no! That's not ours!",anger,0.6145902872085571
+- [gags],joy,0.5680162906646729
+"- And that, folks,",neutral,0.6566989421844482
+- is the infamous Disgust.,disgust,0.9867253303527832
+- [Disgust gagging],disgust,0.980295717716217
+Glad to have her on our team.,joy,0.970881462097168
+- [player grunts],neutral,0.4047834277153015
+- [whistle blows],anger,0.7995517253875732
+Twenty-eight.,neutral,0.7290052771568298
+"Andersen, tripping.",neutral,0.6215065121650696
+"- [Sadness] <i>Oh, no...</i>",sadness,0.9826093912124634
+- [audience exclaiming],joy,0.7124682068824768
+"And bringing up the rear,",neutral,0.8418366312980652
+"you know her, you love her,",joy,0.7186594605445862
+"the one, the only...",neutral,0.48999372124671936
+Oh... We got a penalty.,sadness,0.33167579770088196
+- [Sadness crying],sadness,0.9823794364929199
+"- That's right,",neutral,0.8244926333427429
+Sadness is in the house!,sadness,0.9799282550811768
+Yay...,joy,0.8623514175415039
+[female announcer],neutral,0.8045559525489807
+<i>Andersen goes to the box.</i>,neutral,0.920606791973114
+<i>Two minutes for tripping.</i>,neutral,0.7180843353271484
+"[Joy] <i>Okay, looks like",neutral,0.7490535974502563
+we have a couple of minutes</i>,neutral,0.9359949827194214
+<i>while Riley takes a breather.</i>,neutral,0.4599352777004242
+<i>Let me catch you up.</i>,neutral,0.9012075066566467
+<i>Riley is still exceptional.</i>,neutral,0.8529356122016907
+[Riley] Ta-da!,anger,0.30519717931747437
+Oh. Yum.,disgust,0.8817561864852905
+[Joy] <i>And not just because,neutral,0.6566238403320312
+she's the top</i>,neutral,0.5362793803215027
+- <i>of her class...</i>,neutral,0.6418048739433289
+- <i>Riley Andersen.</i>,neutral,0.6918788552284241
+[Joy],neutral,0.8964211940765381
+"<i>...which, by the way, she is.</i>",neutral,0.46561405062675476
+"Riley, Riley, over here!",joy,0.5761256814002991
+"[Joy] <i>She's also really kind,</i>",joy,0.6367325186729431
+<i>and she's nice to stray cats.</i>,joy,0.7617530226707458
+"<i>I mean, come on.</i>",anger,0.7036609649658203
+"<i>Oh, and she's officially</i>",surprise,0.8253489136695862
+- <i>a teenager now.</i>,neutral,0.4494324326515198
+- [parents cheering],joy,0.9852939248085022
+[Joy],neutral,0.8964211940765381
+"<i>She got very tall, very fast.</i>",neutral,0.5638004541397095
+[Anger] <i>Did we grow overnight?</i>,anger,0.9737629890441895
+[Sadness] <i>Oh.,sadness,0.9832338690757751
+That was our favorite shirt.</i>,neutral,0.5838449001312256
+[Joy] <i>We even got braces,neutral,0.6274836659431458
+with extra rubber bands!</i>,surprise,0.6697584986686707
+- [dentist] How does it feel?,neutral,0.5528023838996887
+- Great!,joy,0.9351771473884583
+- [dentist] Ow!,surprise,0.5676591396331787
+- Sorry.,sadness,0.9354150891304016
+[Joy] <i>Riley's,neutral,0.6074313521385193
+Personality Islands</i>,neutral,0.9289188385009766
+<i>are still going strong.</i>,neutral,0.9015334248542786
+Glad to see Boy Band Island,joy,0.9701446294784546
+finally broke up.,sadness,0.7832682728767395
+But Goofball is still,neutral,0.6767216920852661
+monkeying around. [laughs],neutral,0.5043253302574158
+"Wait, where's Family Island?",neutral,0.7348676323890686
+It's right there.,neutral,0.898402988910675
+"[Sadness] Oh, there it is.",sadness,0.9678386449813843
+What's that blocking it?,surprise,0.7000327706336975
+[Joy],neutral,0.8964211940765381
+"Oh, that's Friendship Island.",neutral,0.6356338858604431
+Isn't it amazing?,surprise,0.9582500457763672
+<i>But we realized her islands</i>,surprise,0.7795358896255493
+<i>aren't the only things,neutral,0.8743284344673157
+made by memories.</i>,neutral,0.8718674182891846
+"<i>Way down, at the root level,</i>",neutral,0.9265591502189636
+<i>these memories,neutral,0.9227344989776611
+were also creating beliefs.</i>,neutral,0.914757490158081
+[Riley echoing],neutral,0.8419197201728821
+<i>Homework should be illegal.</i>,anger,0.5406531095504761
+[groaning],disgust,0.696918249130249
+[echoing] <i>Get Up and Glow,neutral,0.9096899628639221
+is the best band ever!</i>,joy,0.5657455325126648
+[Joy],neutral,0.8964211940765381
+<i>And my personal favorite...</i>,joy,0.47486424446105957
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm a really good friend.</i>,joy,0.9839670062065125
+Did you know,surprise,0.7145893573760986
+the change in your couch,surprise,0.6515169739723206
+could change the world?,surprise,0.7503037452697754
+"Oh, no!",surprise,0.3778568208217621
+- [children exclaiming],joy,0.7698266506195068
+- [coins clinking],neutral,0.7509914040565491
+[children laughing],joy,0.8796287775039673
+"Oh, no, we should do something.",fear,0.4586631655693054
+No!,anger,0.5688469409942627
+That girl is a social <i>Titanic.</i>,neutral,0.8780768513679504
+- Do not get on that ship.,anger,0.3141864538192749
+- [Fear] Uh...,fear,0.973334550857544
+Guys...,neutral,0.6181163787841797
+- [gasps],neutral,0.6995549201965332
+- Wow.,surprise,0.9553030729293823
+[all gasping],neutral,0.5290517210960388
+[Joy] That is so pretty.,joy,0.5063053369522095
+[children chuckling],joy,0.7204476594924927
+It's okay.,neutral,0.60329270362854
+I drop things all the time.,neutral,0.5638571381568909
+I'm Riley.,neutral,0.8885048627853394
+I'm Grace.,neutral,0.9339017271995544
+I'm Bree.,neutral,0.8894574046134949
+"[Joy] <i>Turns out, when you put</i>",neutral,0.7561931610107422
+"<i>all of those beliefs together,</i>",neutral,0.9093236327171326
+<i>they make the most wonderful,joy,0.8292441368103027
+thing of all.</i>,neutral,0.8034715056419373
+<i>Her Sense of Self.</i>,neutral,0.6399000883102417
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm a good person.</i>,joy,0.9581210017204285
+[Joy] <i>It's what helps Riley,joy,0.9232106804847717
+make good choices.</i>,neutral,0.8722659945487976
+"<i>Thirteen years of hard work,</i>",joy,0.4706140160560608
+<i>all wrapped up in what some,neutral,0.7868477702140808
+might call our masterpiece.</i>,neutral,0.4638780951499939
+"<i>You know, one of the hardest</i>",neutral,0.32328036427497864
+- <i>challenges we found...</i>,neutral,0.5892148613929749
+- [buzzer sounds],joy,0.4625745415687561
+"[Joy] <i>Oh, my gosh!",surprise,0.9324497580528259
+We're back in the game.</i>,neutral,0.9462876319885254
+[Sadness gasps] <i>We're tied.</i>,sadness,0.9848930835723877
+How are we gonna score in time?,neutral,0.49862170219421387
+[Fear] <i>Oh!,fear,0.9876669645309448
+We use our slap shot!</i>,anger,0.8429771661758423
+"No, no, no.",fear,0.33110928535461426
+We charge the goalie!,anger,0.9345282912254333
+But Grace hasn't scored yet.,neutral,0.8457441329956055
+Riley's got this.,neutral,0.8538123369216919
+Thread the needle!,anger,0.6259941458702087
+"Come on, Riley.",neutral,0.7708725333213806
+[player grunts],anger,0.41942793130874634
+[audience cheering],joy,0.977969765663147
+- [grunts],neutral,0.6446436643600464
+- [players clamoring],neutral,0.5909813046455383
+[Riley panting],neutral,0.6158643364906311
+[player grunts],anger,0.41942793130874634
+[panting],disgust,0.4002476632595062
+- [grunts],neutral,0.6446436643600464
+- [buzzer sounds],joy,0.4625745415687561
+[audience cheering],joy,0.977969765663147
+[all] Awooga! [chuckling],disgust,0.3030005693435669
+[all] Awooga!,surprise,0.40512627363204956
+"Yeah,",neutral,0.8006893992424011
+that's what I'm talking about!,surprise,0.7955609560012817
+Look at that! That's my girl!,anger,0.3648119568824768
+[female announcer],neutral,0.8045559525489807
+<i>And the Foghorns</i>,neutral,0.8963695168495178
+<i>win the championship!</i>,joy,0.7733420729637146
+[all cheering],joy,0.96319979429245
+[cheering],joy,0.8247010111808777
+- She shoots and she scores!,joy,0.587516188621521
+"- Champions, baby!",joy,0.7941657900810242
+"[woman] Hey, girls.",joy,0.4851926267147064
+Congratulations on your win.,joy,0.6872278451919556
+- That's the high school coach!,surprise,0.8114879131317139
+- [both exclaiming],joy,0.6452819108963013
+What a game!,surprise,0.8930420279502869
+That last play? Whoo!,surprise,0.9125670194625854
+The three of you,neutral,0.7640654444694519
+were impressive.,surprise,0.956849992275238
+"Thanks, Coach Roberts.",neutral,0.5115031003952026
+"Look, it's last minute,",neutral,0.3688230514526367
+"but every year,",neutral,0.6150960326194763
+I do a three-day skills camp.,neutral,0.5354230403900146
+I invite all the best players,joy,0.589924156665802
+in the area.,neutral,0.40475475788116455
+I'd love for you girls to come.,joy,0.8842685222625732
+Are we in a dream right now?,surprise,0.6570048928260803
+"Please, can somebody pinch me?",fear,0.4791540205478668
+Ow!,disgust,0.4210648834705353
+Definitely awake.,neutral,0.8994084596633911
+"If we impress Coach,",neutral,0.802486777305603
+she'll put the three of us,neutral,0.9485362768173218
+on the team next year.,neutral,0.868687093257904
+Ooh! The Fire Hawks!,surprise,0.8300542831420898
+"Finally,",neutral,0.9045376777648926
+a team I can get behind.,joy,0.39581745862960815
+What do you say?,surprise,0.6839641332626343
+- Yes!,joy,0.31348249316215515
+- Absolutely yes.,neutral,0.7412425875663757
+- We're there!,surprise,0.6588564515113831
+"- Thank you,",joy,0.7378970980644226
+"- thank you, thank you!",joy,0.8926827907562256
+- Great.,joy,0.7788555026054382
+We'll see you tomorrow.,neutral,0.481790691614151
+Ah! This is amazing!,joy,0.6088098883628845
+[all laughing],joy,0.6461085081100464
+[knocking at door],fear,0.4918392300605774
+- What a big day!,surprise,0.6035408973693848
+- [exclaims],neutral,0.7092311382293701
+You are such an all-star!,surprise,0.7409998774528503
+You are gonna knock,anger,0.7853883504867554
+the coach's skates off!,surprise,0.5959236025810242
+"Hockey scholarship,",neutral,0.7452920079231262
+here we come!,surprise,0.41197067499160767
+"Dad, stop.",anger,0.6756891012191772
+It's just hockey camp.,neutral,0.9549859166145325
+"I mean,",disgust,0.5644359588623047
+who knows what'll happen?,surprise,0.3653382360935211
+- [referee blows whistle],anger,0.477295458316803
+"- <i>Twenty-eight. Andersen,</i>",neutral,0.7060703635215759
+- <i>tripping.</i>,neutral,0.6375949382781982
+- [Sadness whimpering],sadness,0.9738034605979919
+My penalty almost lost us,fear,0.7504826784133911
+the game today.,neutral,0.5088286995887756
+What if I get to camp,fear,0.8577910661697388
+and I screw it up?,anger,0.690838098526001
+"Hey, don't talk like that.",anger,0.4900338351726532
+"Yeah,",neutral,0.8006893992424011
+"you did great today, honey.",joy,0.7777118682861328
+Exactly. Mom gets it.,neutral,0.8975890874862671
+"Yeah, I guess.",neutral,0.8293735384941101
+We're so proud of you.,neutral,0.5647306442260742
+"Night, monkey.",neutral,0.43386492133140564
+[mimics chittering],joy,0.5640324950218201
+"- [mimics chittering, laughs]",joy,0.9427376985549927
+"- All right, all right.",neutral,0.6046544313430786
+"Sleep tight, honey.",neutral,0.6331629753112793
+[door closes],neutral,0.4552353322505951
+[sighs],disgust,0.4457285702228546
+"Oh, Riley's so hard on herself.",sadness,0.45037683844566345
+But we can make,neutral,0.8628779053688049
+everything easier.,neutral,0.6175901293754578
+[grunts],neutral,0.6844353079795837
+"Behold, my super high-tech",neutral,0.6883625984191895
+- Riley protection system.,neutral,0.8558739423751831
+- [clangs],neutral,0.8456159234046936
+"Don't look, it's fine.",anger,0.5663056969642639
+This is for all those memories,neutral,0.9594694972038269
+that belong,neutral,0.8305040001869202
+"in the Back of the Mind,",neutral,0.542733907699585
+like this penalty one.,neutral,0.4136674404144287
+"It's weighing on her,",sadness,0.5327076315879822
+so let's lighten the load.,neutral,0.7839268445968628
+"A one-way expressway to,",neutral,0.8587700128555298
+"""We're not gonna think",disgust,0.39530181884765625
+"about that right now."" Whoo!",surprise,0.8505098819732666
+- [Anger] Not bad.,anger,0.9518145322799683
+"- [Sadness] Oh, Joy.",sadness,0.9773829579353333
+- That's pretty impressive.,surprise,0.7953040599822998
+- You worked hard.,neutral,0.7463937401771545
+You take such good care,neutral,0.7728239297866821
+of Riley.,neutral,0.716748833656311
+"Thanks, I try.",neutral,0.6742120981216431
+"Okay, let's do a sweep.",neutral,0.8243358135223389
+"Oh, here's one",neutral,0.5339965224266052
+where she waved at a guy,disgust,0.9423278570175171
+who was actually waving,surprise,0.9475202560424805
+at a girl behind her.,disgust,0.6929712295532227
+"Oh, that was so bad.",disgust,0.8250153660774231
+Good choice.,disgust,0.4202269911766052
+"Oh, here's when she forgot",surprise,0.6247115135192871
+that girl's name.,neutral,0.8903066515922546
+"Oh, yeah,",neutral,0.722834587097168
+that was super awkward.,disgust,0.9157747030258179
+What was her name?,neutral,0.6563006043434143
+"I don't know,",surprise,0.7060251235961914
+Janet or something?,neutral,0.8082961440086365
+Whatever. Let's just,neutral,0.8759346604347229
+get rid of it. Oh! [chuckles],surprise,0.6316491961479187
+We keep the best,neutral,0.9600294828414917
+and toss the rest. [sighs],sadness,0.6373068690299988
+"Nice work, everyone.",neutral,0.5862545371055603
+"All right, Anger,",anger,0.9785065054893494
+the rest of these babies,neutral,0.7131542563438416
+can go to long-term.,neutral,0.8419792652130127
+"Oh, okay.",neutral,0.39037618041038513
+Let's get some shut-eye.,neutral,0.8278167843818665
+Big day tomorrow.,surprise,0.5470905303955078
+"Joy, are you taking that",joy,0.5631489753723145
+where I think,neutral,0.6833621859550476
+you're taking that?,surprise,0.7951791286468506
+- Wanna come this time?,surprise,0.456724613904953
+- Yes.,neutral,0.8436919450759888
+I mean no. I...,disgust,0.47275295853614807
+"Oh, no. I really shouldn't.",disgust,0.25811535120010376
+"You know, you're the only one",neutral,0.7808051109313965
+who hasn't been,surprise,0.901087760925293
+to the Belief System.,neutral,0.8056247234344482
+"Yeah, it's just that it's new,",neutral,0.9244904518127441
+and I know how important it is.,neutral,0.8914802670478821
+And I don't wanna mess it up,sadness,0.38256803154945374
+"or break it,",anger,0.8316879868507385
+or burn it to the ground,anger,0.9575296640396118
+or anything.,neutral,0.42082712054252625
+"Sadness, you won't hurt it,",sadness,0.9800223112106323
+I promise.,neutral,0.7003595232963562
+Have I ever,neutral,0.5327877402305603
+steered you wrong before?,neutral,0.6050946712493896
+"Yeah, many times.",neutral,0.8679372072219849
+Come on.,anger,0.4805103838443756
+[panel chimes],neutral,0.8790956735610962
+"Where I go, you go.",neutral,0.8311096429824829
+[♪ enchanting music playing],joy,0.936810314655304
+[elevator dings],neutral,0.9234845638275146
+"[gasps] Oh, my goodness.",surprise,0.890556812286377
+[♪ gentle piano music playing],joy,0.5917529463768005
+[splashing],neutral,0.7082419395446777
+Whoa!,surprise,0.8872137069702148
+[cord reverberates],neutral,0.6181827187538147
+[young Riley echoing] <i>Mom,neutral,0.861474871635437
+and Dad are proud of me.</i>,joy,0.4730633497238159
+Ah! An oldie but a goodie.,joy,0.6830934882164001
+[Young Riley] [Riley],neutral,0.9249868988990784
+[echoing] <i>I'm kind.</i>,neutral,0.5800879001617432
+Aw. That's nice.,joy,0.5488492250442505
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm strong. I'm brave.</i>,joy,0.8038601875305176
+<i>I'm a really good friend.</i>,joy,0.9839670062065125
+[chuckles softly],neutral,0.8402857780456543
+[muffled laughter],anger,0.443082720041275
+[reverberates],neutral,0.8919205069541931
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm a winner.</i>,joy,0.9109546542167664
+[Joy] <i>And all those beliefs,neutral,0.5656152963638306
+come together</i>,neutral,0.8586881756782532
+<i>to make our Riley.</i>,neutral,0.5420552492141724
+[Riley] <i>I'm a good person.</i>,joy,0.926798403263092
+- [Joy snoring],neutral,0.55800861120224
+- [Anger mumbling],anger,0.9776309132575989
+[Joy chuckles],joy,0.5402806997299194
+[distinct beep],neutral,0.708901047706604
+"[chuckles, snores]",disgust,0.48168861865997314
+- [distinct beep],neutral,0.7310796976089478
+- [mumbles],sadness,0.5474139451980591
+[continues snoring],neutral,0.696419358253479
+- [distinct beep],neutral,0.7310796976089478
+- Huh?,surprise,0.9447968006134033
+[groaning],disgust,0.696918249130249
+- What the heck is that?,surprise,0.7641072273254395
+- [distinct beep],neutral,0.7310796976089478
+[beeps],neutral,0.4972098767757416
+[groans softly],neutral,0.7864375710487366
+- [alarm blaring],fear,0.8893237113952637
+- [all screaming],anger,0.5086983442306519
+"Turn that off, Joy!",anger,0.5609008073806763
+"[Fear] People,",fear,0.9541577696800232
+it's the apocalypse!,surprise,0.5098638534545898
+No!,anger,0.5688469409942627
+What are you doing?,surprise,0.6313465237617493
+[grunts] Um...,neutral,0.6275985240936279
+[panting],disgust,0.4002476632595062
+[chuckles] Whoo!,surprise,0.8827816843986511
+Problem solved.,neutral,0.8383029699325562
+Joy.,joy,0.5550557971000671
+- [glass shatters],anger,0.43687883019447327
+- [all screaming],anger,0.5086983442306519
+"Okay, let's clear it all out.",neutral,0.4434664249420166
+- It's demo day.,neutral,0.6514033079147339
+- [workers cheering],joy,0.9831847548484802
+[Joy] Demo?,surprise,0.6615706086158752
+"Wait, wait, what's happening?",neutral,0.635684609413147
+What's going on?,surprise,0.7751653790473938
+- [roaring],neutral,0.8252735733985901
+"- Whoa, whoa, whoa!",surprise,0.9362330436706543
+- [worker grunts],disgust,0.5383842587471008
+- [screams] Who are you people?,surprise,0.6751937866210938
+[screams],fear,0.7690978646278381
+- [screams],fear,0.83236163854599
+- [worker laughs],joy,0.9341343641281128
+"Hey, are you the one",surprise,0.5195587873458862
+in charge here? [exclaims],neutral,0.41503018140792847
+Could you do me a favor and stop,anger,0.7150219678878784
+tearing Headquarters apart?,surprise,0.8464491963386536
+No can do. Didn't you hear?,surprise,0.381321519613266
+Permits just came through.,neutral,0.9356645345687866
+Permits? For what?,anger,0.5347614884376526
+For expanding the place.,joy,0.5800251364707947
+"You know, for the others.",neutral,0.7923367023468018
+- [worker exclaims],joy,0.7324884533882141
+- [Joy coughs],neutral,0.4272489845752716
+What others?,surprise,0.6954044699668884
+They're not here yet?,surprise,0.4762100279331207
+"Aye, yi, yi.",neutral,0.4657736122608185
+"Hey, Margie,",joy,0.6156977415084839
+you got that console?,surprise,0.8631128668785095
+"Yeah, yeah, yeah.",neutral,0.4903012812137604
+Give me a sec!,anger,0.4614948332309723
+"Hey, hey! What are you doing?",joy,0.34657225012779236
+- All right. She's all set.,neutral,0.7797685861587524
+- Set with what?,surprise,0.5447471141815186
+"[Dad] <i>Come on, Riley. Get up.</i>",neutral,0.5660725235939026
+- Camp time.,neutral,0.6642580032348633
+- [groans softly],neutral,0.7969114780426025
+Lunch break!,neutral,0.4535546600818634
+[workers chattering],disgust,0.5132971405982971
+"Wait, wait!",neutral,0.5898149013519287
+You can't leave it like this.,neutral,0.5431727766990662
+"Don't worry, we'll be back.",neutral,0.514453113079071
+[Dad] <i>Come on.,neutral,0.499187707901001
+We're gonna be late.</i>,sadness,0.6569743156433105
+"- Oh, no, no, no!",anger,0.27084848284721375
+- [Dad] <i>Let's go!</i>,anger,0.3092230558395386
+[groaning],disgust,0.696918249130249
+"Riley, you aren't packed yet?",surprise,0.6529554128646851
+Ugh! You're always on me!,disgust,0.7548651695251465
+"Can't you just lay off for,",neutral,0.4675840735435486
+"like, one second?",surprise,0.7028787136077881
+"Uh, overreact much?",anger,0.6434552073478699
+I barely touched it.,surprise,0.492870569229126
+Those morons broke the console.,anger,0.7652310132980347
+"Riley, what's wrong?",anger,0.4172648787498474
+"- Oh, Mom looks sad.",sadness,0.973497211933136
+- [console clicks],neutral,0.8402033448219299
+I'm the worst!,disgust,0.9805874824523926
+"- [Mom] Oh, no. Honey.",surprise,0.3351668417453766
+- [crying],sadness,0.5984724164009094
+I barely touched it.,surprise,0.492870569229126
+That's what I said.,neutral,0.9254571199417114
+[sobbing],neutral,0.7192423939704895
+[sniffing],disgust,0.7513147592544556
+Let the professional,neutral,0.8423143029212952
+handle this.,neutral,0.8457393050193787
+I'm too gross to go to camp,disgust,0.979832649230957
+or anywhere ever again!,anger,0.32208552956581116
+"Oh, yeah,",neutral,0.722834587097168
+this is totally broken.,anger,0.6237515211105347
+"Well, we all knew",neutral,0.8808631896972656
+this day would come.,neutral,0.8243485689163208
+"Remember, we agreed not to",neutral,0.8940722942352295
+make a big deal about this.,neutral,0.5921187996864319
+- But she really does stink.,disgust,0.9325507283210754
+- [all agree],neutral,0.8836882710456848
+"Oh, it's bad.",disgust,0.8491895794868469
+Remain calm.,neutral,0.7917835116386414
+Stick to the prepared script.,neutral,0.8035793304443359
+"You are not gross, honey.",disgust,0.9527716040611267
+You're just changing.,neutral,0.7259038686752319
+Remember that,neutral,0.9541321992874146
+beautiful butterfly,joy,0.8827346563339233
+we saw in the park last week?,surprise,0.6163416504859924
+"[echoing] <i>Well, that butterfly",neutral,0.7878077030181885
+began as a caterpillar.</i>,disgust,0.5226079225540161
+[Joy] Easy...,neutral,0.5981194972991943
+[Mom] <i>And just like,neutral,0.8190416097640991
+that caterpillar...</i>,neutral,0.8536195158958435
+Easy...,neutral,0.921409010887146
+<i>...you're about to,surprise,0.5566385984420776
+get your wings.</i>,neutral,0.935513973236084
+- But if you have questions...,neutral,0.8513496518135071
+"- Oh, my gosh, Mom!",surprise,0.8979789018630981
+Just go away! Ugh!,disgust,0.8210895657539368
+"Well, that's a preview",neutral,0.9501269459724426
+of the next 10 years.,neutral,0.92157381772995
+- Riley!,surprise,0.4922792613506317
+"- Oh, my gosh!",surprise,0.9279246926307678
+- We're gonna have so much fun!,joy,0.9703283309936523
+- [Dad] All right.,neutral,0.5876350402832031
+Who's ready for hockey camp?,neutral,0.9253385066986084
+"[girls] Oh, yeah!",surprise,0.3140582740306854
+"[Joy] <i>Okay, until we can",neutral,0.8732181191444397
+"figure this out,</i>",neutral,0.938996434211731
+nobody touch the console,neutral,0.8034757375717163
+unless you really need to.,neutral,0.7420954704284668
+"So, big weekend for us.",joy,0.823026180267334
+What do you wanna do?,surprise,0.27692490816116333
+"Well, we could finally",neutral,0.7325248122215271
+clean out the garage.,neutral,0.6891356110572815
+"Or, actually,",neutral,0.8398457765579224
+we can get upstairs...,neutral,0.8523820638656616
+How great is next year gonna be?,surprise,0.6683036684989929
+Coach Roberts' team has been,neutral,0.7953317165374756
+state champs like every year.,neutral,0.7595908641815186
+And Val Ortiz,neutral,0.8582184910774231
+is the captain now.,neutral,0.8871959447860718
+This Valentina Ortiz obsession,neutral,0.5283253788948059
+is outta control.,anger,0.6472046375274658
+"Uh, she made the Fire Hawks",neutral,0.9093325138092041
+when she was only a freshman.,fear,0.6750414371490479
+That's really hard.,disgust,0.3804522454738617
+All we have to do,neutral,0.8775067925453186
+"is be super awesome at camp,",joy,0.9214133620262146
+"Coach will put us on the team,",neutral,0.8838575482368469
+and we'll all be Fire Hawks!,neutral,0.3366265892982483
+"- Wait, what was that?",surprise,0.9172255396842957
+- What was what?,surprise,0.8998942375183105
+We got a look.,neutral,0.7494552135467529
+I don't like this.,disgust,0.8589829802513123
+What? You're paranoid.,anger,0.33057525753974915
+I never miss a look.,neutral,0.5118210911750793
+[Disgust] Enhance 224... 176.,disgust,0.9634832143783569
+Track right. Zoom in.,neutral,0.9537651538848877
+Right there!,surprise,0.5216386318206787
+- So?,surprise,0.7784115672111511
+- She's hiding something.,disgust,0.45765164494514465
+But what?,surprise,0.8208372592926025
+What is she doing?,surprise,0.651098370552063
+She's looking at our look!,surprise,0.5685117244720459
+"No, it's much more than that.",neutral,0.8859766125679016
+She looks the same to me.,disgust,0.6651835441589355
+Overlay and compare.,neutral,0.9608078598976135
+"See? Riley then, Riley now.",neutral,0.4844314754009247
+"Riley then, Riley now.",neutral,0.9040856957435608
+"- [all gasp, exclaim]",surprise,0.3924882709980011
+"- Oh, It's so obvious!",surprise,0.8894442915916443
+But what does it mean?,neutral,0.4864594042301178
+She knows,neutral,0.8797758221626282
+we're hiding something.,neutral,0.49980854988098145
+What is happening right now?,surprise,0.6367303729057312
+I don't know! I don't know!,surprise,0.7559544444084167
+- I can't take this anymore!,anger,0.680224597454071
+- Ah!,surprise,0.6138661503791809
+You spilled the tea!,anger,0.6989152431488037
+Coach Roberts isn't gonna be,sadness,0.5953962206840515
+our coach next year.,neutral,0.6624611020088196
+Grace!,joy,0.3013933002948761
+[whimpers],disgust,0.4033295214176178
+We... We got assigned to,neutral,0.6263680458068848
+a different high school.,neutral,0.5668994784355164
+A-ha! Oh...,joy,0.7373402118682861
+"Oh, no.",disgust,0.23084723949432373
+Oh...,neutral,0.6805174946784973
+Okay. Um...,neutral,0.6940648555755615
+Yeah. No big deal.,neutral,0.6569210886955261
+- This is a huge deal!,joy,0.4763828217983246
+- Our life is over!,sadness,0.8764030337333679
+Is she serious right now?,surprise,0.2717362344264984
+How long have they known this?,neutral,0.6810307502746582
+- [Fear] I can't breathe.,fear,0.9833627939224243
+- We can't go to high school,sadness,0.9599823355674744
+- without Bree and Grace.,sadness,0.8979070782661438
+- We won't know anybody.,neutral,0.4810730218887329
+We'll still get to hang out.,neutral,0.8732495307922363
+"And we'll have this weekend,",neutral,0.9253441095352173
+which means,neutral,0.7669529318809509
+we'll get one last time,neutral,0.7752647399902344
+playing on the same team.,sadness,0.47747382521629333
+"Friends are forever, right?",neutral,0.8938308358192444
+Yeah. Of course.,neutral,0.7980110049247742
+[both] Whoo!,surprise,0.8953195810317993
+I can't wait to get to the rink.,joy,0.9784965515136719
+When do we get our schedules?,neutral,0.829735517501831
+[Grace],neutral,0.9315102100372314
+I heard our room has a view...,surprise,0.7125290036201477
+"Oh, this is so sad.",sadness,0.9731462001800537
+"No, wait, Sadness!",sadness,0.9632951021194458
+"- No, no, no! Don't!",fear,0.6829058527946472
+- I don't have a good grip!,sadness,0.5454590320587158
+Just keep it together,neutral,0.9333047866821289
+until we're out of the car.,fear,0.480290949344635
+[Dad] Here we are.,neutral,0.8449883460998535
+This looks really cool.,joy,0.7771936655044556
+Are you sure you don't need,neutral,0.8157109022140503
+an assistant coach?,surprise,0.8618656992912292
+'Cause I am available.,neutral,0.48881208896636963
+- [Mom] Bill.,neutral,0.6570125818252563
+- [Dad] No? All right.,neutral,0.4694315195083618
+- We'll see you in a few days.,neutral,0.524204432964325
+- [Mom] Have fun!,joy,0.7686906456947327
+- [Bree] Thanks so much. Bye!,joy,0.8597915768623352
+- Don't miss us too much.,sadness,0.9193362593650818
+"- Okay, bye!",joy,0.3899551033973694
+"- Wait. Riley,",neutral,0.8912539482116699
+are you sure,neutral,0.5445311665534973
+you have everything?,surprise,0.8613676428794861
+- Stick?,neutral,0.4910425841808319
+- Yes.,neutral,0.8436919450759888
+- Gloves?,surprise,0.6821202039718628
+- Yes.,neutral,0.8436919450759888
+- You have your phone?,surprise,0.8963069915771484
+"- Yes, of course.",neutral,0.8268189430236816
+- Fully charged?,surprise,0.718997061252594
+"- Yeah, it's like 50.",neutral,0.730323314666748
+- What?,surprise,0.9411997199058533
+"- Dad, it's fine.",neutral,0.5184862613677979
+"Okay, call us if you need us.",neutral,0.7429790496826172
+I love you. Go get 'em.,joy,0.8996356725692749
+Okay. Love you guys.,joy,0.49053025245666504
+- Don't forget the deodorant!,disgust,0.48846977949142456
+- Mom!,joy,0.5098050832748413
+"Bye, monkey.",disgust,0.5048969388008118
+"Okay, now.",anger,0.3800849914550781
+[crying],disgust,0.6300959587097168
+It's okay. We need this.,neutral,0.6544657945632935
+[sniffles],neutral,0.7100306153297424
+[gasps],neutral,0.8055470585823059
+"[Disgust] <i>Guys,",disgust,0.977988600730896
+these are high-schoolers.</i>,neutral,0.936734139919281
+- Oh...,neutral,0.4620295763015747
+- We do not wanna be,sadness,0.7004125714302063
+"red and puffy, do we?",sadness,0.3995991349220276
+No.,neutral,0.8298872113227844
+"Don't worry,",fear,0.6456058025360107
+we'll have plenty of time,neutral,0.953683078289032
+to think about this after camp.,fear,0.3829989731311798
+"<i>Now, where did",neutral,0.5863419771194458
+Bree and Grace go?</i>,neutral,0.7739555835723877
+- Oh! There they are.,surprise,0.9167691469192505
+- Wait.,neutral,0.9431381225585938
+Aren't those traitors,neutral,0.5757366418838501
+dead to us?,surprise,0.443366140127182
+Our best friends?,surprise,0.5087841749191284
+[scoffs] No.,neutral,0.6388070583343506
+[girl] Whoa! Hey!,surprise,0.5790343284606934
+Are you okay?,anger,0.5183189511299133
+[gasps] Everybody act regular.,neutral,0.8947263360023499
+It's Valentina Ortiz.,neutral,0.8407630324363708
+- Ah!,surprise,0.6138661503791809
+- We gotta say something.,neutral,0.39744290709495544
+- Uh...,neutral,0.8560205698013306
+- Hey.,joy,0.7264200448989868
+- Hi. I'm Val...,neutral,0.5834072828292847
+- I know.,neutral,0.5401020646095276
+"You're the varsity captain,",neutral,0.7706099152565002
+you set the all-time,neutral,0.6731073260307312
+"goal record as a junior,",neutral,0.5147832632064819
+"your favorite color's red,",neutral,0.5476110577583313
+and your skates...,neutral,0.6072589755058289
+What are we saying?,surprise,0.6577214598655701
+We are so uncool.,disgust,0.7705867290496826
+Why are we,neutral,0.5491145849227905
+still holding her hand?,surprise,0.673987090587616
+Just like me.,neutral,0.9421114325523376
+"[gasps, chuckles nervously]",fear,0.9410679340362549
+"Oh, you're the one",surprise,0.743712306022644
+Coach told us about.,neutral,0.8157235980033875
+"Riley, from Michigan, right?",neutral,0.7715418934822083
+"- It's Minnesota, sweetie.",joy,0.7190018892288208
+"- No, no, no.",neutral,0.41071876883506775
+We cannot correct Val Ortiz.,neutral,0.44924888014793396
+"[laughs] Yeah, that's me.",neutral,0.6160944104194641
+Riley from good old Michigan.,neutral,0.843093991279602
+Orange?,surprise,0.7817885279655457
+Who made the console orange?,neutral,0.8273826837539673
+- Do I look orange?,surprise,0.5721052885055542
+- I didn't touch it.,neutral,0.4062270522117615
+- Orange is not my color.,neutral,0.6941472291946411
+- Not me.,neutral,0.6722089052200317
+"- Hello, everybody.",neutral,0.6861406564712524
+- [all scream],anger,0.6491497159004211
+"Oh, my gosh. I am just",surprise,0.9126205444335938
+such a huge fan of yours.,joy,0.48095443844795227
+"And now, here I am,",neutral,0.5514053702354431
+"meeting you, face to face.",joy,0.6574448943138123
+[squeals],neutral,0.6082695722579956
+Okay. How can I help?,fear,0.7303223609924316
+- Uh... [exclaims],neutral,0.8457189202308655
+"- I can take notes,",neutral,0.9148741364479065
+"get coffee, manage your",neutral,0.8592271208763123
+"calendar, walk your dog,",neutral,0.8548992276191711
+"carry your things,",neutral,0.8810913562774658
+watch you sleep.,neutral,0.8004733920097351
+Wow! You have a lot of energy.,surprise,0.9647763967514038
+[chuckles],neutral,0.7589215636253357
+Maybe you could just,neutral,0.9669714570045471
+stay in one place.,neutral,0.9439700841903687
+Anything.,neutral,0.673428475856781
+"Just call my name,",neutral,0.9615257382392883
+and I am here for you.,joy,0.5797567963600159
+"Okay, love that.",neutral,0.38171201944351196
+- And what was your name again?,surprise,0.8697017431259155
+- Oh.,neutral,0.35709428787231445
+I'm sorry.,sadness,0.9113796353340149
+I can get ahead of myself.,neutral,0.5476058721542358
+I'm Anxiety.,fear,0.9759105443954468
+I'm one of Riley's new emotions.,neutral,0.5173017978668213
+And we are just,neutral,0.9515349864959717
+super-jazzed to be here.,joy,0.8725070953369141
+Where can I put my stuff?,anger,0.4184257984161377
+Uh-uh-uh.,neutral,0.3620429039001465
+"What do you mean ""we""?",surprise,0.634416401386261
+[female voice sighs,neutral,0.43610596656799316
+in exasperation],anger,0.9011277556419373
+[female voice] I wish I was as,surprise,0.5076810121536255
+tall as all of you. [grunts],neutral,0.6777631044387817
+- Who the heck are you?,surprise,0.8798209428787231
+"- [grunting, panting]",sadness,0.4349900484085083
+I'm Envy.,neutral,0.8872291445732117
+Oh! Look at your hair.,disgust,0.5493062138557434
+"- Oh, yeah, not happening.",sadness,0.58709317445755
+- [gasps],neutral,0.6995549201965332
+Look at her hair!,disgust,0.4868973195552826
+We need hair like that.,neutral,0.8989781737327576
+"Oh, my gosh.",surprise,0.8497796058654785
+I love the red in your hair.,joy,0.9109447002410889
+- Oh...,neutral,0.4620295763015747
+- [Disgust gasps],disgust,0.9820622801780701
+What are you doing?,surprise,0.6313465237617493
+"Hey, maybe when I make the team,",neutral,0.39810243248939514
+"I can join Team Redhead, too!",joy,0.8724255561828613
+"Yeah, yeah.",neutral,0.5973880887031555
+[whimpers],disgust,0.4033295214176178
+[gasps],neutral,0.8055470585823059
+"Okay, who's this guy?",surprise,0.40555766224861145
+"What's your name, big fella?",surprise,0.7050175666809082
+That's Embarrassment.,disgust,0.9706189036369324
+He's not really big,neutral,0.7309632897377014
+"on eye contact,",neutral,0.3549351990222931
+"or uh, like, good talking,",joy,0.4575975239276886
+but he's a really sweet guy.,joy,0.7314702868461609
+"Well, welcome to Headquarters,",neutral,0.8164938688278198
+Embarrassment.,disgust,0.9820422530174255
+"Oh, we're doing a... No.",neutral,0.3546305000782013
+"No, going high. Oh.",neutral,0.2150508463382721
+You got a real sweaty palm,neutral,0.5443966388702393
+"there, buddy. [chuckles]",neutral,0.5442148447036743
+[Embarrassment whimpering],disgust,0.9481859803199768
+"Hey, do you wanna",neutral,0.4902459383010864
+"come with me, actually?",surprise,0.7500855326652527
+You can meet some of,neutral,0.8486721515655518
+the other Fire Hawks.,neutral,0.8072118163108826
+"[Anxiety] <i>Ooh, this is exciting.</i>",fear,0.968893826007843
+But we can't let her know,sadness,0.7268146276473999
+we're excited.,joy,0.8317227959632874
+"Yeah, sounds good.",joy,0.8812758326530457
+What emotion was that?,neutral,0.590755045413971
+That's Ennui.,neutral,0.9245607256889343
+- An-what?,surprise,0.9241408109664917
+- [female voice 2 sighs],neutral,0.5076966285705566
+Ennui.,neutral,0.8772345185279846
+It's what you would call,neutral,0.9389775991439819
+the boredom.,sadness,0.8893826007843018
+"Well, come on up here, An-wer.",neutral,0.816725492477417
+Am I saying it right?,neutral,0.3601780831813812
+An-wah. No.,disgust,0.4844794273376465
+"Oh, nicknames!",surprise,0.7887016534805298
+I'm gonna call you Wee-Wee.,joy,0.43532755970954895
+No.,neutral,0.8298872113227844
+How are you driving?,surprise,0.45887571573257446
+- Console app.,neutral,0.8504778742790222
+- [beeps],joy,0.561002254486084
+Hey! Stop it! That's enough.,anger,0.9410964250564575
+"Now, now, I know new emotions",neutral,0.7986226081848145
+can sometimes feel,sadness,0.9679188132286072
+"unhelpful at first,",sadness,0.546116828918457
+and you just wanna...,neutral,0.7449906468391418
+[grunting],disgust,0.5870199203491211
+"say to them,",neutral,0.9009851813316345
+"""Why are you so annoying?""",anger,0.6397084593772888
+But I've learned that every,neutral,0.9301358461380005
+emotion is good for Riley.,neutral,0.40015754103660583
+- Even this turkey.,neutral,0.5561111569404602
+- [Sadness chuckles],sadness,0.9554707407951355
+"Okay, fine.",anger,0.461204469203949
+[Ennui sighs],sadness,0.6189755797386169
+Cool. Lead the way.,neutral,0.8354322910308838
+All right. Grab your stuff,neutral,0.6820410490036011
+and follow me.,neutral,0.8668796420097351
+"[Sadness] <i>Oh, but what about",sadness,0.9799599647521973
+our friends?</i>,surprise,0.6428192853927612
+[Envy] <i>Val is our future.</i>,neutral,0.8223474621772766
+"Yes, I agree completely.",neutral,0.7907032370567322
+We need new friends or else,neutral,0.5821511149406433
+we'll be totally alone,sadness,0.9750586748123169
+in high school.,fear,0.5806775093078613
+"- Right, Joy?",neutral,0.48795703053474426
+- Well...,neutral,0.6770269274711609
+"- I mean, maybe, um...",neutral,0.5254866480827332
+- Here we go!,joy,0.5293809175491333
+Wait up.,neutral,0.892443060874939
+Thanks for showing me around.,joy,0.7620713114738464
+"Wait, why did you do that?",surprise,0.8070932626724243
+Sorry. What did I do?,sadness,0.48750829696655273
+We just left,neutral,0.946130096912384
+our best friends behind.,joy,0.4968547821044922
+But what about the new ones,neutral,0.7385990023612976
+that we're about to meet?,surprise,0.6706536412239075
+No. Okay.,neutral,0.39805111289024353
+These next three days need,neutral,0.9354326128959656
+to be about Bree and Grace.,joy,0.7899228930473328
+"Joy, the next three days",joy,0.8772170543670654
+could determine,neutral,0.5380620956420898
+the next four years,neutral,0.8121514916419983
+of our lives.,sadness,0.41369009017944336
+"[chuckles] Now, I think that's",neutral,0.7041944265365601
+overstating things a bit.,neutral,0.7982462048530579
+"Ooh, la, la.",surprise,0.4348503649234772
+Joy is so old school.,neutral,0.677157998085022
+What?,surprise,0.9222372174263
+"Look, we all have a job to do.",neutral,0.4059414267539978
+"You make Riley happy,",joy,0.8415657877922058
+"Sadness makes her sad,",sadness,0.9839420914649963
+Fear protects her from,fear,0.9668605923652649
+"the scary stuff she can see,",fear,0.9834170937538147
+and my job is to protect her,anger,0.55359947681427
+from the scary stuff,fear,0.9918312430381775
+she can't see.,surprise,0.7327356338500977
+I plan for the future.,fear,0.3798741400241852
+"Oh, I can show you.",neutral,0.5590667724609375
+You're gonna love this.,joy,0.44380468130111694
+[console beeps],neutral,0.8115078806877136
+I was using that,neutral,0.8569271564483643
+as a cup holder.,neutral,0.4937586486339569
+"Okay, so my team",neutral,0.5508527159690857
+"has run all the data,",neutral,0.8800716400146484
+and we're looking,neutral,0.8195731043815613
+at the following,neutral,0.890030026435852
+likely scenarios.,neutral,0.667188286781311
+"First, we don't take",neutral,0.7145548462867737
+"this camp seriously,",surprise,0.5197364091873169
+and we goof off,neutral,0.607414722442627
+with Bree and Grace.,neutral,0.4893163740634918
+Riley looks really uncool,disgust,0.7369747757911682
+in front of Val.,fear,0.4594723582267761
+"She fails to impress the coach,",disgust,0.5260769128799438
+"does not become a Fire Hawk,",neutral,0.863521158695221
+and finally arrives,joy,0.41988450288772583
+at high school.,fear,0.5548695921897888
+- She has no one.,sadness,0.5398049354553223
+- [bell ringing],neutral,0.7590283155441284
+"She eats alone,",sadness,0.719851553440094
+and only the teachers,neutral,0.7479569315910339
+- know her name.,neutral,0.844526469707489
+- Ew.,disgust,0.7796267867088318
+"Okay, you and I",neutral,0.649644136428833
+are gonna be friends.,joy,0.6008701920509338
+"Oh, this is a sad story.",sadness,0.9726958870887756
+It's a ridiculous story.,disgust,0.7372934818267822
+"Look, again, love the energy,",neutral,0.32072874903678894
+but you're being silly.,anger,0.5169814825057983
+None of this,neutral,0.7858026027679443
+will actually happen.,surprise,0.5788662433624268
+Right. Whatever you say.,neutral,0.5936927199363708
+- You're the boss. [chuckles],neutral,0.39898231625556946
+- [female voice 3] Oh...,surprise,0.4678894281387329
+Remember when we all finally,neutral,0.6241535544395447
+came up to Headquarters?,surprise,0.6450487971305847
+"That was like 30 seconds ago,",neutral,0.5379886031150818
+Nostalgia.,sadness,0.5792878866195679
+"Yeah, those were the days.",neutral,0.8654291033744812
+"Nostalgia, you aren't supposed",surprise,0.4649856388568878
+to be here yet.,surprise,0.4665481150150299
+"You still have about 10 years,",neutral,0.9367218017578125
+"two graduations,",neutral,0.7033487558364868
+and a best friend's wedding,joy,0.6936707496643066
+"before you're invited,",neutral,0.820573091506958
+but I will keep you,neutral,0.6839728951454163
+"in the loop, I promise.",neutral,0.7514699697494507
+- [Valentina] <i>All right...</i>,neutral,0.7000711560249329
+"- Hey, hey...",joy,0.89947509765625
+"- <i>you ready, Riley?</i>",neutral,0.6132422089576721
+- everybody focus!,joy,0.4248407483100891
+Val is leading us,neutral,0.5336135029792786
+into their holy inner sanctum!,surprise,0.6262393593788147
+- And here we are!,joy,0.4845025837421417
+- [indistinct chatter],neutral,0.8050636649131775
+[Envy] <i>These girls are so cool!</i>,joy,0.8902036547660828
+[Disgust] <i>And older.</i>,disgust,0.973846971988678
+We are not changing,neutral,0.9441757798194885
+in front of them.,anger,0.379120796918869
+It's fine!,anger,0.6976054310798645
+<i>Locker rooms are places,neutral,0.8841418623924255
+of mutual respect.</i>,disgust,0.40362051129341125
+"Hey, come on! I want you to",anger,0.6080203056335449
+meet the other Fire Hawks.,neutral,0.799705982208252
+"- Hey, girl!",joy,0.8760414719581604
+- What's up?,surprise,0.8762646913528442
+Hey.,neutral,0.4196593165397644
+Riley is from Michigan.,neutral,0.9250047206878662
+"Okay, we're stuck with that.",neutral,0.65972501039505
+"Oh, Cool. Where in Michigan",neutral,0.6001940965652466
+are you from?,surprise,0.6844914555549622
+- Uh...,neutral,0.8560205698013306
+"- Oh, no. What now?",surprise,0.7632819414138794
+"Okay, looks like",neutral,0.8829237222671509
+we're committing to this.,neutral,0.8678105473518372
+Cities in Michigan...,neutral,0.7977036833763123
+We need to make something up.,neutral,0.8633807301521301
+I'm from all over.,neutral,0.8094106912612915
+Nice. See you out there.,joy,0.8733969330787659
+"Hey, you wanna sit with us?",joy,0.30359983444213867
+[Anxiety],fear,0.9351552128791809
+"<i>Oh, she wants to sit with us.</i>",neutral,0.6533933877944946
+[gasps],neutral,0.8055470585823059
+Everything is beautiful!,joy,0.8934699296951294
+There's not enough room,sadness,0.5670880675315857
+for Bree and Grace.,sadness,0.4919806122779846
+Oh! Let's go sit over there.,anger,0.3345562219619751
+I was gonna go save seats,sadness,0.5433756113052368
+for my friends.,sadness,0.47988852858543396
+But thanks anyway.,neutral,0.5078474283218384
+Oh. Uh... Yeah. Okay.,neutral,0.5209012031555176
+No worries.,neutral,0.6869695782661438
+See? Was that so hard?,surprise,0.7705914378166199
+No. You're totally right.,neutral,0.5506791472434998
+That decision's,neutral,0.8285593390464783
+not gonna haunt us,fear,0.8902187943458557
+for the rest,neutral,0.9431710839271545
+of our lives at all.,neutral,0.7221682071685791
+- [Bree] No way!,anger,0.5229801535606384
+- Bree and Grace!,joy,0.5945721864700317
+- There you are.,neutral,0.7059167623519897
+- Riley.,neutral,0.7595741748809814
+Time to celebrate!,joy,0.8878876566886902
+"- Say, ""awooga""!",neutral,0.49952277541160583
+- [both] Awooga!,joy,0.48899874091148376
+"Okay, ladies.",disgust,0.4303285479545593
+Let's all settle in.,neutral,0.8931118845939636
+"[babbling, chuckling]",joy,0.6255549192428589
+"- Uh, Joy?",surprise,0.742171585559845
+"- Wait, wait, wait.",neutral,0.8293469548225403
+- [coach] Ladies!,joy,0.8587653636932373
+- [girls gasp],surprise,0.3916340172290802
+Settle in means settle down.,neutral,0.8634251356124878
+I need your focus.,neutral,0.8156080842018127
+Which means now I'm going,neutral,0.7370799779891968
+to need your cell phones.,neutral,0.8157383799552917
+All of 'em.,neutral,0.7576104998588562
+"[girl] Wait, what?",surprise,0.6964110136032104
+Are you serious?,surprise,0.38860270380973816
+[tuts] You're here,surprise,0.2940498888492584
+"to work, not goof around.",neutral,0.734851062297821
+"Got that, Andersen?",surprise,0.6917534470558167
+"Yes, Coach.",neutral,0.8163255453109741
+Please put all your phones,neutral,0.7587048411369324
+in the basket.,neutral,0.40229281783103943
+You get them back,neutral,0.8788524270057678
+at the end of camp.,sadness,0.6990960240364075
+Wow. Coach is so serious.,surprise,0.9570141434669495
+"Joy, I'm just curious.",surprise,0.8895239233970642
+"Maybe, um, I could help...",neutral,0.3736298978328705
+Thank you. Not now.,neutral,0.8248368501663208
+"I know, right? [laughs]",joy,0.4244430363178253
+[all chuckling],joy,0.5454065203666687
+Oh. [chuckles],surprise,0.44028428196907043
+You think this is funny?,joy,0.398820698261261
+"Uh-huh. Well, you know",neutral,0.49039146304130554
+what else is funny?,surprise,0.6564486622810364
+Skating lines.,neutral,0.8627985119819641
+"- Now hit the ice, ladies.",neutral,0.7959035634994507
+- [all groaning],neutral,0.4187982678413391
+"- Great job, Michigan.",joy,0.8255988955497742
+"- Thanks a lot, new girl.",joy,0.875260055065155
+[girl 1] Just make her do it.,neutral,0.678619921207428
+"[sighs] Bravo, Joy.",sadness,0.5239282846450806
+She's totally fitting in now.,neutral,0.7551299333572388
+"Oh, thanks so much, Wee-Wee.",joy,0.8791038990020752
+[all panting],neutral,0.8243140578269958
+"You're lagging behind, Andersen!",anger,0.5173985958099365
+- Skate harder!,neutral,0.42115744948387146
+- [player] This is the worst.,disgust,0.9829282164573669
+[whistle blows],anger,0.6146985292434692
+"All right, ladies,",neutral,0.6963520050048828
+take a breather.,neutral,0.6831944584846497
+Then we'll divide into teams.,neutral,0.9368730783462524
+[breathing heavily],disgust,0.7270299196243286
+[Fire Hawk player],neutral,0.9377244114875793
+"Oh, that Michigan girl",surprise,0.6610507965087891
+- is off to a rough start.,sadness,0.8572201132774353
+"- [Anxiety] <i>Oh, no.</i>",fear,0.9683400392532349
+Are they talking about us?,surprise,0.4486384093761444
+"Yeah, there's no way",disgust,0.30153805017471313
+Coach is putting her,disgust,0.6242198944091797
+on the team if she can't,sadness,0.7848280072212219
+get it together.,neutral,0.7679829597473145
+"Uh, okay, Dani,",neutral,0.515448272228241
+like you had it all together,neutral,0.8643360733985901
+when you were a freshman?,surprise,0.5233079195022583
+I wasn't that immature.,neutral,0.45433536171913147
+"[Sofia] Dani, you stuck straws",anger,0.4013618230819702
+up your nose. Like last night.,neutral,0.36672312021255493
+[Embarrassment groaning],disgust,0.9823182821273804
+[grunting],disgust,0.5870199203491211
+"Aw. I got you, big guy.",disgust,0.27497944235801697
+- [sobbing],sadness,0.49703696370124817
+- [Envy] Oh.,surprise,0.5035361051559448
+I always wanted people to talk,neutral,0.6197844743728638
+"about us, but not like this.",disgust,0.5385852456092834
+"Oh, Joy, what do we do now?",surprise,0.5523607134819031
+Um...,neutral,0.8881747722625732
+"We can just, um...",neutral,0.8488852977752686
+I have an idea.,neutral,0.530034065246582
+Okay.,neutral,0.534888744354248
+"If we can get Val on our side,",neutral,0.8938330411911011
+everything will be great.,joy,0.6378845572471619
+"Uh, Val?",surprise,0.622001588344574
+"Oh, hey, Riley. What's up?",joy,0.27731913328170776
+"Uh, I-I...",fear,0.4537348449230194
+I'm so sorry.,sadness,0.9676152467727661
+I didn't mean to get,anger,0.40117281675338745
+the whole team skating lines.,neutral,0.6231609582901001
+I feel terrible.,sadness,0.9198814630508423
+I respect you so much.,anger,0.39938756823539734
+I would never do anything,fear,0.465970516204834
+to mess you up.,anger,0.5838527083396912
+"Uh, that's laying it on",neutral,0.9586039781570435
+"a bit thick, don't you think?",surprise,0.5366204380989075
+- [shushes] Joy.,joy,0.9289472103118896
+"- <i>You're a great hockey player,</i>",joy,0.7561502456665039
+and you lead the team,neutral,0.6956803202629089
+"so amazingly,",surprise,0.8786433339118958
+and I really,surprise,0.9060412049293518
+look up to you and...,neutral,0.47243815660476685
+"Okay, okay. Thanks. [chuckles]",neutral,0.5005114078521729
+"Listen, Coach was pretty hard",neutral,0.4135094881057739
+"on you today,",neutral,0.6126999258995056
+but that's not a bad thing.,disgust,0.8498755097389221
+It means you're on her radar.,neutral,0.9339777231216431
+Really?,surprise,0.9695847630500793
+"Listen, I'm glad you came",joy,0.9571440815925598
+to talk with me.,joy,0.6951216459274292
+"Hey, let's try to be on",neutral,0.5469368100166321
+"the same team later, okay?",neutral,0.5735697746276855
+"Oh, yeah. Cool.",neutral,0.4592839777469635
+- [sighs wearily],sadness,0.6421017646789551
+- Wow.,surprise,0.9553030729293823
+- [Ennui] Good job. Wow.,surprise,0.9253570437431335
+- I wish I could do that.,sadness,0.8415489792823792
+"You guys, I mean,",disgust,0.5611353516578674
+it really wasn't anything.,neutral,0.6321867108345032
+I'm just trying to help.,neutral,0.8308970928192139
+I agree.,neutral,0.7610316276550293
+"Great job, Anxiety.",fear,0.759739339351654
+"I stepped back, you stepped in,",fear,0.6873487830162048
+"you got Riley back on track,",neutral,0.6527279019355774
+now I'm ready to step back in.,neutral,0.7092780470848083
+But that was just,neutral,0.9491103887557983
+part one of my plan.,neutral,0.36672258377075195
+There's a part two?,neutral,0.6614993214607239
+"A good plan has many parts, Joy.",joy,0.8019914627075195
+"Okay, ladies,",neutral,0.4686984717845917
+we're gonna form your teams,neutral,0.90089350938797
+for the rest of camp.,neutral,0.5140062570571899
+"Now, split yourselves",anger,0.9229539036750793
+down the middle.,neutral,0.7156060338020325
+"Team one on the right,",neutral,0.8459007143974304
+team two on the left.,neutral,0.8326929807662964
+Let's do this!,anger,0.8862131237983704
+One more time,neutral,0.9332939982414246
+"on the same team, right?",neutral,0.7257712483406067
+Right.,neutral,0.8274133801460266
+Val wants us.,neutral,0.919274091720581
+But we promised Bree and Grace.,neutral,0.5679389834403992
+"Joy, we have to",joy,0.7833925485610962
+plan for the future.,neutral,0.8510899543762207
+"Come on, Riley, move.",neutral,0.4072157144546509
+Move those feet!,anger,0.7496016025543213
+"Val's on team one,",neutral,0.9421124458312988
+you wanna be on team one.,sadness,0.4204469621181488
+Let's go.,neutral,0.6823216676712036
+She made a promise,neutral,0.8088571429252625
+to her friends.,disgust,0.5959546566009521
+She's not gonna break it.,anger,0.6948312520980835
+"Oh, you're so right, Joy.",joy,0.49060937762260437
+- [grunts],neutral,0.6446436643600464
+- [shatters],anger,0.2524888813495636
+- What are you doing?,surprise,0.8698186874389648
+- [Anger] Hey!,anger,0.9759121537208557
+No! You can't have that.,anger,0.6885682344436646
+Put that back.,neutral,0.9090756177902222
+"Joy, I don't mean to overstep...",neutral,0.5372433066368103
+- No!,anger,0.33834823966026306
+- ...but it has to be done.,neutral,0.718985378742218
+What are you... No!,surprise,0.5458774566650391
+[gasps] No...,neutral,0.6345521807670593
+"I know change is scary,",fear,0.9836599826812744
+but watch.,neutral,0.5165417194366455
+- I'm so excited.,joy,0.9035441875457764
+- [gasps],neutral,0.6995549201965332
+All right.,neutral,0.6785576343536377
+"Welcome to our team, Michigan.",neutral,0.4621295630931854
+That is not Riley.,neutral,0.9000344276428223
+I know. It's a better Riley.,neutral,0.7538893818855286
+A Riley who won't be alone,sadness,0.8703303933143616
+next year.,neutral,0.9444277286529541
+We build her,neutral,0.9336598515510559
+a new Sense of Self.,surprise,0.49551019072532654
+A brand-new her.,neutral,0.45461830496788025
+"No, no, no!",fear,0.5004587173461914
+You can't go down there,sadness,0.39681506156921387
+with that.,neutral,0.9146125912666321
+Over my dead flaming body!,anger,0.8287127017974854
+I am truly sorry.,sadness,0.9702194929122925
+I was so looking forward,joy,0.518494188785553
+to working with you guys.,joy,0.7805070281028748
+"Hey, hey! What do you think",joy,0.7210973501205444
+you're doing?,surprise,0.8136910796165466
+Get off me!,anger,0.8977124691009521
+Riley's life,sadness,0.82979816198349
+is more complex now.,surprise,0.5342827439308167
+It requires more sophisticated,neutral,0.9230763912200928
+emotions than all of you.,sadness,0.4657857120037079
+You just aren't what,surprise,0.6298046112060547
+"she needs anymore, Joy.",neutral,0.633244514465332
+[gasps],neutral,0.8055470585823059
+"How dare you, madam!",anger,0.9841320514678955
+You can't just bottle us up!,anger,0.6151641011238098
+Oh! That's a great idea.,joy,0.8642749786376953
+- [all grunting],neutral,0.6492214202880859
+- [Fear] I can't breathe.,fear,0.9833627939224243
+I can't breathe!,sadness,0.38781893253326416
+It's not forever.,neutral,0.9565005302429199
+It's just,neutral,0.9593386650085449
+"until Riley makes varsity,",neutral,0.5483219623565674
+"or until she turns 18,",neutral,0.901224672794342
+or maybe forever.,neutral,0.9528914093971252
+I don't know.,surprise,0.6272881031036377
+We'll have to see.,neutral,0.9169425964355469
+- Bye!,joy,0.7262669205665588
+- [Joy] Anxiety!,fear,0.847148597240448
+- Riley needs us!,joy,0.3477216958999634
+- [all clamoring],neutral,0.8591998815536499
+Okay.,neutral,0.534888744354248
+"Don't worry, Riley.",fear,0.6147582530975342
+You're in good hands.,neutral,0.7073691487312317
+Now let's change,neutral,0.9111740589141846
+everything about you.,neutral,0.7671917676925659
+[Embarrassment grunting],disgust,0.9754408597946167
+Huh?,surprise,0.9353686571121216
+[Embarrassment exclaims],disgust,0.947081983089447
+Quick question. How do we,neutral,0.8275505304336548
+"build a new Riley,",neutral,0.9307183027267456
+"which I'm loving, by the way,",joy,0.8949928879737854
+"amazing concept,",surprise,0.43708449602127075
+if it took them 13 years,surprise,0.4963555335998535
+to build the old one?,surprise,0.6233226656913757
+"Well, good news is we're not",neutral,0.585096001625061
+starting from scratch.,neutral,0.42831113934516907
+I wanna plant one.,joy,0.5783964991569519
+- Next time.,neutral,0.8606635332107544
+- [groans],neutral,0.8679100871086121
+[crackling],anger,0.5072534084320068
+- [twangs],neutral,0.8177772760391235
+- [Riley echoing] <i>If I'm</i>,neutral,0.7290356159210205
+"<i>a Fire Hawk, I won't be alone.</i>",sadness,0.8271627426147461
+[crackling],anger,0.5072534084320068
+[siren wailing],fear,0.39364203810691833
+[Sadness crying],sadness,0.9806156754493713
+"[Anger] No, no, no!",anger,0.9816054701805115
+Let us out now!,anger,0.43961548805236816
+"[Disgust] No, stop!",disgust,0.9237333536148071
+Stop! Let us out!,anger,0.925818920135498
+"[Fear] Uh, Joy...",fear,0.7486090660095215
+[crying] We're gonna,disgust,0.3004356622695923
+be in here forever.,neutral,0.930746853351593
+[crying],disgust,0.6300959587097168
+[Fear gasps],fear,0.9585325121879578
+Where are you putting us?,anger,0.33651435375213623
+The same place we keep,neutral,0.9596273899078369
+all of Riley's secrets.,neutral,0.8575050830841064
+We're not secrets.,neutral,0.8539600968360901
+"Oh, yeah, yeah, yeah.",neutral,0.5342933535575867
+"""We're not secrets.",neutral,0.8572806119918823
+"""We're making a big mistake.""",disgust,0.3842216432094574
+[Frank] Never heard that before.,surprise,0.8095511794090271
+- [Frank and Dave laughing],joy,0.7581852674484253
+- [vault door shuts],neutral,0.3082379996776581
+We are suppressed emotions!,disgust,0.4951612651348114
+[Anger] Let us out! Right now!,anger,0.9846408367156982
+"No, no, no.",fear,0.33110928535461426
+Riley's gonna be fine.,neutral,0.6045137643814087
+Totally fine.,neutral,0.4185623824596405
+"[male voice] Hey, there.",joy,0.4254036247730255
+You know what we call that?,neutral,0.4406227767467499
+Denial.,disgust,0.5667622089385986
+Can you say denial?,neutral,0.44425976276397705
+- [all gasp],surprise,0.3052143454551697
+"- Hi, friends.",joy,0.7537276148796082
+Welcome. It's so good to have,joy,0.9766789078712463
+you here with us today.,neutral,0.754227340221405
+[laughs] It's Bloofy!,joy,0.7095118165016174
+From that preschool show,neutral,0.8165304064750671
+Riley used to like?,neutral,0.6120414137840271
+That's right!,anger,0.5435419082641602
+And here's a little secret.,neutral,0.8105016946792603
+[Fear exclaims],fear,0.9718010425567627
+[whispers],neutral,0.675653874874115
+Riley still likes the show.,neutral,0.5283541083335876
+[singing],neutral,0.6573052406311035
+<i>♪ Stomp like an elephant ♪</i>,neutral,0.8152173757553101
+<i>♪ Scurry like a mouse ♪</i>,fear,0.9432981610298157
+<i>♪ Make your way down,neutral,0.9340152144432068
+To Bloofy's house! ♪</i>,joy,0.5792408585548401
+Please kill me.,anger,0.8102203011512756
+"Bloofy, we're in a real pickle.",neutral,0.7620247602462769
+Could you help us,neutral,0.7677493691444397
+get out of here?,anger,0.6267058849334717
+Uh-oh.,fear,0.6633704304695129
+We're gonna need your help.,sadness,0.4411831200122833
+Can you find a way out?,neutral,0.650113582611084
+- Who are you talking to?,surprise,0.9144871234893799
+- My friends.,joy,0.7734695076942444
+Do you see a key?,surprise,0.7374441027641296
+Hmm.,neutral,0.8234972357749939
+I don't either.,neutral,0.8884797096252441
+"Okay, we're doomed.",sadness,0.4748455286026001
+[male voice 2] Indeed.,neutral,0.8400102853775024
+Welcome to your eternal fate.,neutral,0.8074879050254822
+[gasps] Lance Slashblade?,surprise,0.4985034763813019
+But he's a video game character.,neutral,0.937182605266571
+Why is he here?,surprise,0.8524176478385925
+"Yeah, I always thought Riley",neutral,0.9105634093284607
+had a secret crush on him.,disgust,0.7613447308540344
+I never saw the appeal.,surprise,0.5992463827133179
+"I long to be a hero,",neutral,0.46469953656196594
+but darkness haunts my past.,sadness,0.7643658518791199
+- [all assenting],neutral,0.5268475413322449
+- [Anger] I get it.,anger,0.9705952405929565
+I'm in a hundred percent.,neutral,0.6944374442100525
+[growling],anger,0.3990168273448944
+- Uh... Who's that?,surprise,0.9316434264183044
+- Oh!,surprise,0.837171196937561
+That's Riley's Deep Dark Secret.,neutral,0.720433235168457
+What... What is the secret?,surprise,0.6193934679031372
+You don't wanna know.,disgust,0.33222395181655884
+"Riley's secrets,",neutral,0.7998997569084167
+a rogue emotion,neutral,0.5488578677177429
+has taken over Headquarters.,neutral,0.6683350801467896
+"Now, if you could just",neutral,0.84710294008255
+open the jar...,neutral,0.7330866456031799
+"Hey, kids,",joy,0.6577860116958618
+let's learn some Latin.,neutral,0.9206452965736389
+Do you know <i>quid pro quo?</i>,neutral,0.7713830471038818
+"We get you out of that jar,",neutral,0.8833531737327576
+then you get us,neutral,0.5612093806266785
+out of this safe.,neutral,0.5850178003311157
+"No, Bloofy.",neutral,0.875389575958252
+Their destiny,neutral,0.8695757985115051
+is not ours to change.,neutral,0.9348162412643433
+"We were all banished here,",sadness,0.5696717500686646
+"deemed unfit, worthless.",sadness,0.41522306203842163
+[gasps],neutral,0.8055470585823059
+Don't you dare say that.,anger,0.9455189108848572
+You do not deserve,anger,0.6932174563407898
+to be thrown away.,anger,0.6011673808097839
+"Uh, one second, Lance.",neutral,0.8970903754234314
+Don't you remember,neutral,0.4262125492095947
+his power move?,surprise,0.7956924438476562
+- [video game sounds beeping],neutral,0.567590057849884
+"- I'm coming for you, Riley!",joy,0.6116280555725098
+"Oh, yeah? Watch this!",anger,0.451020747423172
+[video game chiming],neutral,0.6793901920318604
+[Riley] Come on!,anger,0.5150564312934875
+"You listen to me,",neutral,0.40556600689888
+Lance Slashblade.,neutral,0.9147475957870483
+No one is totally worthless.,neutral,0.5541753172874451
+But I am a warrior cursed,sadness,0.8071767687797546
+with a feeble attack.,fear,0.5626160502433777
+Then you must make your curse,anger,0.6127347350120544
+your gift.,neutral,0.4500630497932434
+"Shield yourself, my friends,",anger,0.7777240872383118
+for I shall set you all free!,anger,0.786949098110199
+[Lance grunting],disgust,0.6149311661720276
+"Hey, little help?",surprise,0.22672134637832642
+[growls],neutral,0.8287100195884705
+[glass shatters],anger,0.6927156448364258
+"Great job, Dark Secret.",joy,0.6015331745147705
+[grunts],neutral,0.6844353079795837
+Now it's your turn to help us.,neutral,0.8648515939712524
+My pouch has just the thing,neutral,0.9179421663284302
+to get us out of here.,neutral,0.7637650370597839
+"Everybody say, ""Oh, Pouchy!""",anger,0.49519088864326477
+"[all] Oh, Pouchy!",surprise,0.6510369181632996
+[♪ amusing music plays],joy,0.9668135643005371
+"Hi, everybody. I'm Pouchy.",neutral,0.6312189102172852
+"Pouchy, we need to escape.",neutral,0.5161805748939514
+Do you have anything,neutral,0.9105376601219177
+that can help us?,neutral,0.7760574817657471
+I have lots of items.,neutral,0.9097098112106323
+Which one do you think,neutral,0.6685572266578674
+will work the best?,neutral,0.8350186347961426
+"A tomato,",neutral,0.6774023771286011
+"a frog,",neutral,0.790773332118988
+or exploding dynamite?,surprise,0.3904816806316376
+"Oh, for crying out loud.",sadness,0.7352454662322998
+[explosion],surprise,0.4956144690513611
+"Yay! We did it, everyone!",joy,0.8079788684844971
+Let's all sing,neutral,0.7599158883094788
+"the ""We did it"" song.",neutral,0.5510948300361633
+[inhales deeply],sadness,0.5687652826309204
+[all] No time!,anger,0.6390402913093567
+"Thank you, friends. I must...",joy,0.48026394844055176
+[grunts],neutral,0.6844353079795837
+I must be leaving you.,sadness,0.9106580018997192
+What about Dark Secret?,neutral,0.8793231844902039
+Not yet.,neutral,0.9466041326522827
+"Yeah, that's probably best",neutral,0.8011789321899414
+for everybody.,neutral,0.8631097674369812
+[Dave] Hey! Who let you out?,surprise,0.7402127385139465
+Get back in there!,joy,0.31872987747192383
+"- Oh, boy.",surprise,0.30662474036216736
+- What are we gonna do?,surprise,0.4247302711009979
+"Oh, disgusted one,",disgust,0.9887266755104065
+"as you once believed in me,",neutral,0.7474403977394104
+I will now believe in myself.,joy,0.7092785835266113
+[sword clatters],anger,0.6891037821769714
+[guards gasp],fear,0.4560058116912842
+Huh?,surprise,0.9353686571121216
+- Wait. What?,surprise,0.8326562643051147
+- [all laughing],joy,0.7690793871879578
+- [groans],neutral,0.8679100871086121
+- Ooh!,surprise,0.8635461330413818
+"[screams, grunts]",anger,0.6335684061050415
+"[groans, grunts]",disgust,0.7714391946792603
+Whoa! What's happening? Whoa!,surprise,0.8924353718757629
+- [Sadness gasps],sadness,0.9785681366920471
+- [Anger laughing],anger,0.8668931126594543
+[groaning],disgust,0.696918249130249
+No...,neutral,0.6672439575195312
+"Dave, help! Help!",fear,0.47690704464912415
+Hold on!,anger,0.9201501607894897
+[cop] Dave!,surprise,0.4966382384300232
+Lance!,joy,0.47473546862602234
+"[Lance] Goodbye, friends.",sadness,0.6825355887413025
+"Hello, destiny!",neutral,0.5814235210418701
+"Well, there's a lid",neutral,0.9133062958717346
+for every pot.,neutral,0.8357894420623779
+Come on!,anger,0.7241723537445068
+[Fear] What do we do?,fear,0.97699373960495
+What do we do?,fear,0.41422128677368164
+"Whoa, Anger, stop.",anger,0.8833128809928894
+Where are you going?,neutral,0.46486973762512207
+"Um, back to Headquarters,",neutral,0.9551209807395935
+to help Riley!,neutral,0.31961193680763245
+Riley's not up there.,neutral,0.7542416453361511
+She's out there.,neutral,0.365145206451416
+We can't go back,sadness,0.5439760088920593
+without her Sense of Self.,sadness,0.46544215083122253
+You want us to go all the way,neutral,0.7542803287506104
+to the Back of the Mind?,surprise,0.7678700685501099
+Are you out of your mind?,anger,0.4900984764099121
+"But, Joy, how will we...",neutral,0.48147305846214294
+- [male cop] Freeze!,neutral,0.32483670115470886
+- Come on!,joy,0.3405129909515381
+[male cop] Hold it right there!,anger,0.8465994596481323
+[siren wailing],fear,0.39364203810691833
+[scoffs] How do we get there?,surprise,0.5070474147796631
+"Do you even have a plan, Joy?",surprise,0.3802158832550049
+I bet Anxiety would have,fear,0.8058366179466248
+a really good plan...,joy,0.907603919506073
+Of course I have a plan.,neutral,0.8966816067695618
+Who doesn't have a plan?,surprise,0.4535774886608124
+"Look, she's not the only one",disgust,0.3375997543334961
+who can project the future.,neutral,0.8887291550636292
+"First, all we have to do is,",neutral,0.9378547668457031
+uh...,neutral,0.8289535641670227
+<i>Give me a second.</i>,neutral,0.8536059856414795
+<i>Ooh! Follow the stream,surprise,0.928335964679718
+"of consciousness,</i>",neutral,0.7796688675880432
+<i>and then we take,neutral,0.8901776075363159
+"a nice, easy float</i>",joy,0.8150283098220825
+<i>all the way,neutral,0.9148852229118347
+to the Back of the Mind.</i>,neutral,0.6887344717979431
+[Fear] <i>Where all,fear,0.9866206645965576
+the bad memories are.</i>,sadness,0.660385251045227
+"[Joy] <i>Exactly. And there,</i>",neutral,0.8945115804672241
+<i>we'll find the Riley,neutral,0.9575498700141907
+we know and love.</i>,neutral,0.615964412689209
+<i>We'll put her,neutral,0.9524247646331787
+"Sense of Self back,</i>",neutral,0.8893731236457825
+<i>and then Riley,neutral,0.7270448207855225
+will be Riley again.</i>,neutral,0.5666171908378601
+"[Fear] <i>Okay,",fear,0.988469660282135
+I'm gonna give it to you.</i>,neutral,0.45037388801574707
+<i>That could actually work.</i>,neutral,0.6552007794380188
+"[Joy] <i>Yeah, it could!</i>",joy,0.40523865818977356
+"<i>And then I tell Anxiety, ""Hey,",fear,0.8537075519561768
+"don't worry so much anymore.""</i>",fear,0.7702480554580688
+"<i>And she'll say,",neutral,0.896085262298584
+"""Wow, Joy, I never thought</i>",surprise,0.977501630783081
+"<i>""of that before. Thank you.""</i>",neutral,0.5595046281814575
+<i>And then we hug,neutral,0.5306470990180969
+and become best friends...</i>,joy,0.45759886503219604
+[Anger] <i>And then I punt her,anger,0.9772893190383911
+into the dump.</i>,neutral,0.4932272732257843
+- [Anxiety screaming],fear,0.9479456543922424
+"- What? No, Anger.",anger,0.9447497725486755
+"Okay, fine. No punting.",anger,0.5561390519142151
+"Don't worry, I know",fear,0.6615598797798157
+right where the stream is.,neutral,0.9397236108779907
+Sadness and I,sadness,0.9815434813499451
+have been here before. Oh.,surprise,0.8627986311912537
+[Disgust],disgust,0.977814257144928
+"Joy, this is a dead end.",sadness,0.6619167923927307
+Those are the worst kinds,disgust,0.9776732921600342
+of ends!,surprise,0.6160750389099121
+Everything's changing so fast!,surprise,0.8463307619094849
+[crying],disgust,0.6300959587097168
+"So, we're lost.",neutral,0.38924458622932434
+No. You're never lost,neutral,0.5324375033378601
+if you're having fun.,joy,0.942848265171051
+"No one is having fun, Joy.",neutral,0.603912353515625
+"Oh, come on! Look at Sadness.",sadness,0.7816981673240662
+She's having a great time.,joy,0.8963115811347961
+[crying],disgust,0.6300959587097168
+I thought you knew,surprise,0.89902663230896
+where you were going.,neutral,0.8702569603919983
+I do. I did.,neutral,0.8698455691337585
+- I just need a moment.,neutral,0.8920402526855469
+- She doesn't know.,surprise,0.7972801923751831
+We're stuck here!,anger,0.4523290991783142
+"Oh, Riley's awake.",surprise,0.46549877524375916
+"Wait, she's up too early.",neutral,0.867206871509552
+What are they doing to her?,anger,0.5823947191238403
+"Come on, we'll find another way.",neutral,0.8894645571708679
+"Don't worry, Riley.",fear,0.6147582530975342
+We're coming.,neutral,0.6755938529968262
+[memories clinking],neutral,0.8697739839553833
+[breathing heavily],disgust,0.7270299196243286
+[Ennui sighs],sadness,0.6189755797386169
+Why are we up so early?,surprise,0.54707270860672
+"Because, <i>mon ami,</i>",neutral,0.7378734946250916
+"we need to speed things up,",neutral,0.9425519704818726
+and that means,neutral,0.8213841915130615
+"we hit the ice early,",neutral,0.6024592518806458
+<i>and practice like,neutral,0.9227460026741028
+we've never practiced before.</i>,neutral,0.9094992280006409
+[Ennui] <i>Aren't we already good,surprise,0.5218073725700378
+at hockey?</i>,surprise,0.5689027905464172
+[Envy] <i>We're good.</i>,joy,0.5543097853660583
+- But the Fire Hawks are great.,neutral,0.6515247225761414
+- That's right!,joy,0.3387181758880615
+"[grunts, groans]",disgust,0.7476766705513
+[Anxiety],fear,0.9351552128791809
+"<i>Every time we miss,</i>",sadness,0.8684799671173096
+<i>we skate a lap around the rink.</i>,neutral,0.862198531627655
+"Hockey is not a game,",neutral,0.7207555174827576
+it is a sport.,neutral,0.7318875193595886
+[Riley grunts],disgust,0.7054954171180725
+[grunts],neutral,0.6844353079795837
+- Yes!,joy,0.31348249316215515
+- [Envy] <i>Wow.</i>,surprise,0.9667136073112488
+That was amazing.,surprise,0.8683834075927734
+We need to be that good,neutral,0.9363770484924316
+every time.,neutral,0.656882643699646
+Let's run it again.,neutral,0.9169244170188904
+"Hey, I see I'm not the only",neutral,0.3841201663017273
+one who likes to start early.,joy,0.4710712134838104
+"[Anxiety] <i>You guys, it's Val!</i>",fear,0.9630137085914612
+We had the same idea.,neutral,0.9215912222862244
+We're basically the same person.,neutral,0.9471849203109741
+We're gonna be best friends.,joy,0.7042890787124634
+How long have you been here?,neutral,0.7264200448989868
+I don't know. Maybe an hour.,neutral,0.8557683229446411
+I just wanted to get in,neutral,0.7355833053588867
+some extra ice time.,neutral,0.9167470932006836
+I'm the same way.,neutral,0.9360796809196472
+[Anxiety],fear,0.9351552128791809
+"<i>Oh, my gosh. She gets us.</i>",surprise,0.9070822596549988
+See? I told the other girls,surprise,0.37448400259017944
+you'd figure it out.,neutral,0.9116723537445068
+You get what it takes,neutral,0.9511470198631287
+to be the best.,neutral,0.7109003067016602
+Look at us.,disgust,0.4570436179637909
+This is going great!,joy,0.9102630019187927
+Yeah! But we need Val,anger,0.46644356846809387
+to really like us.,joy,0.7481331825256348
+"Oh, we should ask Val",neutral,0.7996299266815186
+lots of questions.,neutral,0.9013996124267578
+People love,joy,0.597163736820221
+talking about themselves.,disgust,0.42015916109085083
+"So, what was your freshman",neutral,0.7170389890670776
+year on the Fire Hawks like?,neutral,0.6520455479621887
+"I mean, it was a lot of work,",disgust,0.40274205803871155
+"like, a lot... [chuckles]",neutral,0.8586475849151611
+but it's also,neutral,0.5217760801315308
+how I met my best friends.,joy,0.4957255423069
+Val is sharing things with us!,joy,0.652439534664154
+"Hey, a few of us are just",neutral,0.7696103453636169
+"gonna hang out tonight,",joy,0.7353412508964539
+order some food.,neutral,0.8832494616508484
+You should come.,neutral,0.3420548737049103
+Oh! An exclusive invitation.,surprise,0.8442813158035278
+[chuckles],neutral,0.7589215636253357
+We're going!,anger,0.3789463937282562
+- Really?,surprise,0.9690800905227661
+- Definitely.,neutral,0.760381817817688
+It'll be fun.,joy,0.9670792818069458
+"[coach] All right, ladies,",neutral,0.6094121932983398
+let's warm up.,neutral,0.800422728061676
+"Hey, Riley.",neutral,0.4530254602432251
+Hi.,neutral,0.8685224652290344
+We are not sharing Val,neutral,0.7802330255508423
+with them.,neutral,0.7937334775924683
+[grunts] Early mornings,neutral,0.8941687941551208
+make me so hungry.,sadness,0.4502406716346741
+"I know, right?",disgust,0.3494226336479187
+I'd give anything for a piece,neutral,0.5345713496208191
+of pizza right now.,neutral,0.6541262269020081
+Yes!,anger,0.5300906896591187
+See? I told you I'd find it.,surprise,0.4893828332424164
+The Stream of Consciousness.,neutral,0.7612677216529846
+"- [Sadness] But, Joy...",sadness,0.979408323764801
+- Wow! Our girl is hungry.,surprise,0.8971882462501526
+Hop on something delicious!,joy,0.5829974412918091
+- Joy...,joy,0.6998844146728516
+"- Ooh, deep dish.",surprise,0.5712777376174927
+[chuckles],neutral,0.7589215636253357
+And it's still warm.,neutral,0.8508402705192566
+"Extra cheese, baby!",joy,0.4358792304992676
+"Sadness, come on.",sadness,0.9658529758453369
+But I've been trying,neutral,0.7960208654403687
+to tell you.,neutral,0.6042635440826416
+"We can't take the tube back,",sadness,0.7660294771194458
+Joy.,joy,0.5550557971000671
+Someone has to be,neutral,0.7942693829536438
+at the console to recall us.,neutral,0.7585185766220093
+She's right. We'd be stranded.,neutral,0.7952975034713745
+Yeah. Anxiety would have,fear,0.9158841967582703
+thought about that.,neutral,0.6524624824523926
+"Well, I doubt it. Fine.",disgust,0.3973543345928192
+Okay. Uh...,neutral,0.662619411945343
+"So, someone's gonna have to",neutral,0.6782561540603638
+"crawl up that tube,",neutral,0.8602423071861267
+"and go back to Headquarters,",neutral,0.9405931830406189
+"and at the right moment,",neutral,0.8040750622749329
+bring us back.,neutral,0.9031181931495667
+"Oh, I'll do it.",neutral,0.4302668869495392
+I'll pound that...,neutral,0.7552446722984314
+"I don't think so, punty.",disgust,0.8745414614677429
+"- Okay, here's the thing.",neutral,0.5145336985588074
+- You were never an option.,neutral,0.7216640710830688
+Thank you.,neutral,0.6663592457771301
+You want me to crawl through,neutral,0.5007245540618896
+a tube in this?,surprise,0.9215061664581299
+"Yeah, not happening.",sadness,0.4233863651752472
+"[gasps] Oh, no, not me.",surprise,0.2908325791358948
+"Yes! Sadness, you could do it.",sadness,0.9713181853294373
+You know the console,neutral,0.820724606513977
+better than anybody.,neutral,0.6368902325630188
+You've read the manuals,neutral,0.9522300958633423
+cover to cover.,neutral,0.917458176612854
+"I mean, you say that,",disgust,0.5868551731109619
+but I know a lot less about,neutral,0.8235174417495728
+"Manual 28, Chapter Seven,",neutral,0.8982989192008972
+"""How to Recall",neutral,0.8368568420410156
+"Non-Memory Objects""",neutral,0.7858468890190125
+than most folks realize.,surprise,0.7555719614028931
+You've proven my point,neutral,0.9008898735046387
+"for me, Sadness.",sadness,0.9822527170181274
+That sounds like a yes.,neutral,0.8839907646179199
+[man on radio],neutral,0.8569936752319336
+<i>Where is everybody?</i>,neutral,0.6297155022621155
+<i>You on break again?</i>,surprise,0.41342249512672424
+Ooh! Walkie-talkies. Here.,surprise,0.7202202677726746
+Check-check-check.,neutral,0.9205939769744873
+Can you hear me?,surprise,0.5363242626190186
+I gotta press a button.,neutral,0.6295192241668701
+<i>Go for Joy. Copy that. Over.</i>,neutral,0.8488183617591858
+"Oh, I love 'em!",joy,0.8171814680099487
+We'll signal you,neutral,0.9033330082893372
+"when we get there,",neutral,0.8100528717041016
+- and then you bring us back.,neutral,0.7770939469337463
+- Oh...,neutral,0.4620295763015747
+"[Joy] Sadness, it's the fastest",sadness,0.938929557800293
+way back to Headquarters.,neutral,0.878969669342041
+"Joy, I can't do it.",sadness,0.8090531826019287
+I'm not strong like you are.,neutral,0.5238895416259766
+"I know you, Sadness.",sadness,0.966215968132019
+You are strong.,neutral,0.884731650352478
+I can't give you,sadness,0.9382883310317993
+"specific examples right now,",neutral,0.9389439821243286
+but you got this.,surprise,0.7335121631622314
+- [Joy grunts],neutral,0.7593194246292114
+- [Sadness whimpers],sadness,0.9748587608337402
+Just don't look down,fear,0.44856899976730347
+and keep moving.,neutral,0.7650720477104187
+"[Sadness] Yeah, I can do it.",sadness,0.9527604579925537
+[crying hysterically],joy,0.4580814838409424
+She'll be okay. Right?,neutral,0.6286633014678955
+"Uh, fifty-fifty.",neutral,0.5166869163513184
+Mmm! You want one?,surprise,0.8362168669700623
+But we hate those things.,disgust,0.4873832166194916
+They taste like cardboard.,disgust,0.8931896686553955
+- [Embarrassment groaning],disgust,0.9806148409843445
+- We can't say no to Val.,sadness,0.5568816065788269
+"Okay, no, you're so right.",neutral,0.4801439344882965
+We eat whatever Val eats.,neutral,0.8441200852394104
+- That's the spirit!,surprise,0.505660891532898
+- Whoo!,surprise,0.8037703633308411
+"Envy, I think you're really",surprise,0.8851359486579895
+in the zone.,neutral,0.6698178648948669
+"Take the wheel,",neutral,0.7473760843276978
+I'll be right back.,neutral,0.9285252094268799
+She picked me! She picked me.,anger,0.58845454454422
+"Did you see that, Ennui?",surprise,0.8911781907081604
+She picked me.,neutral,0.6190274357795715
+You care too much about things.,neutral,0.8168678879737854
+Mmm. Mmm-hmm.,neutral,0.8989776968955994
+It's got,neutral,0.7168343663215637
+a very interesting texture.,joy,0.6120544075965881
+It tastes like... Mmm...,neutral,0.728473961353302
+What does it remind me of?,neutral,0.7295809984207153
+Um...,neutral,0.8881747722625732
+Cardboard? Asparagus?,neutral,0.7450662851333618
+Broccoli?,surprise,0.4958045184612274
+What are they doing to her,anger,0.35553109645843506
+up there?,surprise,0.900413990020752
+"I don't know, but we have to go.",neutral,0.6172541975975037
+No! No way am I step...,anger,0.5572016835212708
+- We have to. Riley needs us.,neutral,0.6809248924255371
+- [groans],neutral,0.8679100871086121
+"Okay, fine!",anger,0.8589566946029663
+Ugh. Ew! Ew!,disgust,0.950867235660553
+- [Fear whimpering],fear,0.9791703224182129
+- [Joy grunts],neutral,0.7593194246292114
+Gross.,disgust,0.7867663502693176
+I think I'm gonna be sick.,fear,0.27509549260139465
+[♪ dramatic music playing],joy,0.6396477818489075
+[crackling],anger,0.5072534084320068
+[Riley echoing],neutral,0.8419197201728821
+"<i>If I'm good at hockey,</i>",neutral,0.8757530450820923
+- <i>I'll have friends.</i>,joy,0.8464621901512146
+- [chuckles],neutral,0.8016565442085266
+[crackles],anger,0.3968757092952728
+[warbles weakly],neutral,0.5642940402030945
+[indistinct shouting],neutral,0.5838102102279663
+[player grunts],anger,0.41942793130874634
+Whoo!,surprise,0.8172371983528137
+- Yeah!,joy,0.3975176513195038
+"- Okay, Miss Riley.",neutral,0.6373860836029053
+"- Way to go, Michigan.",neutral,0.698157012462616
+"- Nice one, Michigan.",joy,0.7642244696617126
+"All right, ladies.",neutral,0.6074292659759521
+Great day today.,joy,0.9455419778823853
+Take it easy tonight.,neutral,0.9162816405296326
+Yes! This is the moment,surprise,0.527894139289856
+we've been waiting for.,neutral,0.896253764629364
+<i>Party time with Val,joy,0.8954878449440002
+and our future besties!</i>,neutral,0.5695822238922119
+<i>Why are we stopping?,anger,0.690418004989624
+What's going on?</i>,surprise,0.5511133670806885
+[Dani] There it is.,neutral,0.8835005760192871
+The red notebook.,neutral,0.4033471643924713
+Don't say it like that.,neutral,0.5976486206054688
+You'll freak her out.,anger,0.5764855742454529
+Why would it freak me out?,anger,0.5946934819221497
+"Mmm, only because everything",neutral,0.8986013531684875
+Coach thinks about you,neutral,0.49493372440338135
+is in there.,surprise,0.602242648601532
+The good and the bad.,disgust,0.8073010444641113
+Whether she wants you,neutral,0.8640735149383545
+on the team...,neutral,0.5524835586547852
+- Or not.,neutral,0.5408167243003845
+"- You guys, too much.",neutral,0.42116472125053406
+- What? It's the truth.,surprise,0.886134684085846
+- [chuckles] She's not wrong.,neutral,0.6019781231880188
+What do you think,neutral,0.6897547245025635
+she's written about us?,surprise,0.8639809489250183
+I don't know.,surprise,0.6272881031036377
+Do you think it's bad?,disgust,0.6158525943756104
+"Well, I didn't until now!",surprise,0.7011736035346985
+What if she's made a list of,surprise,0.5308552384376526
+"all her favorite players,",joy,0.5457184314727783
+and we're not on it?,surprise,0.9074953198432922
+Or a list of,neutral,0.9577677845954895
+"all the worst players,",disgust,0.9677189588546753
+and we're at the top?,surprise,0.9469916224479675
+"Or worse,",disgust,0.8834971189498901
+"we're not on either list,",neutral,0.7793733477592468
+and we fade into obscurity!,sadness,0.5378891229629517
+"Uh, sorry to interrupt you,",sadness,0.9028792977333069
+but they're walking away.,neutral,0.4365478456020355
+[Anxiety exclaims],fear,0.9321094751358032
+"<i>We're losing them,</i>",sadness,0.6478602290153503
+<i>we're losing them.</i>,sadness,0.8446429967880249
+[Anxiety] <i>Okay.,fear,0.9658384323120117
+First big hang with the group.</i>,neutral,0.4446384310722351
+<i>We just gotta act casual.</i>,neutral,0.7560734748840332
+"<i>Uh, why do our arms swing",surprise,0.5576514601707458
+like that when we walk?</i>,neutral,0.6498879194259644
+[Envy] <i>Try to keep them still.</i>,neutral,0.9003288745880127
+- [Anxiety] <i>That looks crazy.</i>,fear,0.963007390499115
+- [Envy] <i>Okay.</i>,neutral,0.7949816584587097
+"[Envy] Well, walk like Dani.",neutral,0.7589980959892273
+Her arms have rhythm.,neutral,0.898891270160675
+[Anxiety],fear,0.9351552128791809
+"<i>No, you're making it worse!</i>",disgust,0.5933141112327576
+"[Envy] <i>Well,",neutral,0.776969850063324
+that wasn't my intention.</i>,neutral,0.4426894783973694
+<i>I'm sorry for trying something!</i>,sadness,0.7833423614501953
+"[Ennui] <i>Uh, what do you think",neutral,0.6107951402664185
+pockets are for?</i>,neutral,0.6813141703605652
+"[Envy] <i>Oh, that's good.</i>",joy,0.9406723976135254
+"[Anxiety] <i>Ennui,",fear,0.9774866700172424
+I am very proud of you.</i>,joy,0.7295657992362976
+[all laughing],joy,0.6461085081100464
+[Envy] <i>What are they,neutral,0.6985499262809753
+laughing about?</i>,neutral,0.4933089315891266
+Does anybody know,neutral,0.6264927983283997
+what cool people laugh about?,joy,0.7823425531387329
+I don't know. We were too,surprise,0.6025885939598083
+focused on the arms thing.,neutral,0.884197473526001
+Just pretend we get the joke.,neutral,0.7291387319564819
+[laughs],neutral,0.4953087270259857
+[Embarrassment groans],disgust,0.978752076625824
+"[Fear] Joy, Anger is",anger,0.8685195446014404
+taking up the floret.,neutral,0.8439350724220276
+"Fear, what is the matter",fear,0.9814883470535278
+with you?,surprise,0.8975949287414551
+I don't like this vessel.,disgust,0.8717485666275024
+"Well, that's all we have.",neutral,0.9510790109634399
+How much longer,surprise,0.4787898063659668
+till we get there?,neutral,0.8373574018478394
+We'll get there,neutral,0.9563184380531311
+when we get there.,neutral,0.7162660360336304
+I bet Anxiety would know,fear,0.6950325965881348
+"how long, down to the minute.",neutral,0.9157758951187134
+"Well, she just knows",neutral,0.9298230409622192
+"everything, doesn't she?",anger,0.3629460632801056
+"Look, I don't like her words,",anger,0.5068930387496948
+and I do not like her actions.,anger,0.44019025564193726
+I just think I can change her.,neutral,0.8238811492919922
+You know what?,surprise,0.54279625415802
+Who likes banana bread?,neutral,0.894638180732727
+Show of hands.,disgust,0.6226882338523865
+[indistinct conversation],neutral,0.8791459798812866
+"So, Michigan,",neutral,0.9118096828460693
+who's your favorite band?,surprise,0.4506794214248657
+Uh...,neutral,0.7905620336532593
+Everyone's staring at us.,disgust,0.5467314124107361
+There's only one right answer,neutral,0.9249269366264343
+to this question.,neutral,0.6678011417388916
+Oh! Get Up and Glow!,joy,0.5945860743522644
+They're so awesome.,joy,0.5680090188980103
+Get Up and Glow!,neutral,0.7753167152404785
+I was all over them,surprise,0.7414172887802124
+in middle school.,fear,0.5806217789649963
+- [Dani] Are you serious?,surprise,0.738827109336853
+"- [Valentina] Yeah,",neutral,0.7000159621238708
+I was a Glow Girly. Relax.,joy,0.914365828037262
+No! We need a band,anger,0.4140969514846802
+"they think is cool,",joy,0.490521639585495
+not one we actually like.,disgust,0.5570403933525085
+"Quick, recall everything",neutral,0.8890347480773926
+we know about music.,neutral,0.9035191535949707
+[whirring],neutral,0.6336753964424133
+Uh-oh!,surprise,0.6112529039382935
+[Sadness screaming],sadness,0.9800729155540466
+[grunts],neutral,0.6844353079795837
+[grunting],disgust,0.5870199203491211
+[screaming],fear,0.9269857406616211
+We have to know,neutral,0.9033514261245728
+"one cool song, right?",joy,0.8933917284011841
+- [Sadness grunts],sadness,0.9805859923362732
+- [memories clattering],neutral,0.5902900099754333
+- [man] <i>♪ TripleDent gum ♪</i>,neutral,0.8226245641708374
+- [woman] <i>♪ Will make you smile ♪</i>,joy,0.925939679145813
+"Embarrassment,",disgust,0.9677390456199646
+get that out of there!,anger,0.9042847156524658
+"Come on, there's gotta be",neutral,0.3448772132396698
+something in here.,surprise,0.7216358780860901
+"[Envy] I'm looking, I'm looking.",neutral,0.6952894926071167
+"[Anxiety] Something better,",fear,0.8821887969970703
+something cool. Come on.,neutral,0.626375138759613
+"No, not that. No.",neutral,0.7270830273628235
+This is the best we have!,surprise,0.4258657395839691
+It's mostly jingles,neutral,0.9005703926086426
+and Dad's yacht rock.,neutral,0.4801781177520752
+"But, I mean,",disgust,0.5077398419380188
+you don't still like,sadness,0.5237992405891418
+"Get Up and Glow, do you?",neutral,0.5475913286209106
+"Okay, don't panic.",fear,0.9712226986885071
+What do we do?,fear,0.41422128677368164
+"If we don't like their music,",anger,0.5298368334770203
+we have nothing,neutral,0.5681553483009338
+- to offer these girls.,joy,0.5072320103645325
+- [Ennui groans],neutral,0.6760215759277344
+We'll be outed as the imposter,neutral,0.9346548914909363
+- that we obviously are.,neutral,0.8302432298660278
+- <i>Pardon. Excusez moi.</i>,neutral,0.5724489688873291
+I've been waiting my whole,neutral,0.922700822353363
+life for this very moment.,neutral,0.4770285487174988
+[console buzzes],neutral,0.6942781209945679
+"[sarcastically] Oh, yeah.",neutral,0.4858340620994568
+I love Get Up and Glow.,joy,0.932964026927948
+[echoing],neutral,0.9073797464370728
+<i>Love Get Up and Glow.</i>,joy,0.7666900157928467
+[all screaming],anger,0.7261609435081482
+[♪ intense music playing],neutral,0.5098121166229248
+Abandon broccoli!,sadness,0.5028789043426514
+[Disgust screams],disgust,0.9767888784408569
+[Joy screams],neutral,0.7088220715522766
+[Joy breathing heavily],neutral,0.5463405847549438
+- [Disgust] Joy!,disgust,0.9844537377357483
+- Give us your hand! Come on.,anger,0.6124333143234253
+[both grunting],disgust,0.5009292364120483
+What is that?,surprise,0.8663126826286316
+That's a Sar-chasm.,neutral,0.8157312273979187
+It can open for miles!,surprise,0.4333958029747009
+Run for your lives!,anger,0.7868303656578064
+Sar-chasm? Really?,surprise,0.9637562036514282
+[Riley sarcastically],anger,0.6688323616981506
+<i>Get Up and Glow</i>,neutral,0.8838800191879272
+<i>is my favorite band.</i>,joy,0.9049633741378784
+But she loves Get Up and Glow.,joy,0.6172482967376709
+They choreograph,neutral,0.7273898720741272
+their own dances.,neutral,0.9222851991653442
+"Okay, Joy,",joy,0.48946306109428406
+"if we can't follow the stream,",sadness,0.8496935367584229
+we don't know where we're going.,surprise,0.5487514734268188
+And if we don't know,neutral,0.6714653372764587
+"where we're going,",neutral,0.9200448393821716
+we can't follow the stream!,sadness,0.915324866771698
+It is an endless loop,neutral,0.744802713394165
+of tragedy and consequence!,sadness,0.7380515336990356
+Or we could just ask those guys.,neutral,0.97384113073349
+"Oh, yeah. Or that.",neutral,0.7171275019645691
+"Boy, are we so lucky",surprise,0.6776341199874878
+we ran into you guys!,surprise,0.7499412894248962
+[echoing in sarcastic voice],anger,0.7398065328598022
+"Boy, are we so lucky",surprise,0.6776341199874878
+- we ran into you guys!,surprise,0.6323046088218689
+- Huh?,surprise,0.9447968006134033
+"Please,",neutral,0.7653634548187256
+we really need your help!,sadness,0.43670645356178284
+[echoing in sarcastic voice],anger,0.7398065328598022
+We really need your help.,neutral,0.4521602988243103
+What's their problem?,neutral,0.40658125281333923
+"Guys, you just gotta",neutral,0.4413212537765503
+turn on the charm.,neutral,0.8230835199356079
+[chuckles] Hey!,joy,0.8814660310745239
+[echoing in sarcastic voice],anger,0.7398065328598022
+I bet you're the best,neutral,0.8127434253692627
+crane crew in the world!,surprise,0.7940218448638916
+"Wow, those guys are jerks.",surprise,0.844919741153717
+"- Wow, those guys are jerks.",surprise,0.844456672668457
+- [crane beeping],neutral,0.6011521220207214
+"[sarcastically] Oh, yeah.",neutral,0.4858340620994568
+Get Up and Glow is so awesome.,neutral,0.5073784589767456
+"Riley, what are you",surprise,0.6077028512954712
+talking about?,surprise,0.8260960578918457
+- You love Get Up and Glow.,joy,0.7580612897872925
+- Oh. Uh...,neutral,0.5830209255218506
+"- Hey, guys.",joy,0.864503026008606
+- [Envy groans],disgust,0.4978960156440735
+Why are our best friends,surprise,0.6809372305870056
+always trying to,neutral,0.6023332476615906
+hang out with us?,neutral,0.5338551998138428
+"Come on, Riley,",neutral,0.7877094745635986
+we just went to their concert.,neutral,0.7709490060806274
+"Well, yeah.",neutral,0.6693660020828247
+"- I mean, sure, but like...",neutral,0.3139842450618744
+- But what?,surprise,0.8133957386016846
+We had a great time.,joy,0.9629872441291809
+"- Grace, you are not helping.",sadness,0.5354379415512085
+- [console buzzes],neutral,0.5156550407409668
+"[sarcastically] Oh, yeah,",neutral,0.5678702592849731
+- we had a great time.,joy,0.9684801697731018
+- [Fire Hawks exclaim],neutral,0.44231927394866943
+[Riley echoing] <i>Great time.</i>,joy,0.955335795879364
+[worker clamoring],neutral,0.8240260481834412
+Why can't they just,neutral,0.49697911739349365
+leave her alone?,neutral,0.3997384011745453
+"What are we gonna do now, Joy?",anger,0.3167871832847595
+"We go the long way,",neutral,0.9495602250099182
+which is the best way.,neutral,0.8063529133796692
+"Stretch those hammies, Anger.",anger,0.9748557209968567
+Let's go.,neutral,0.6823216676712036
+Best night of my life.,joy,0.7745283246040344
+"Well, this has been really fun.",joy,0.9747612476348877
+Extremely.,surprise,0.3486166000366211
+But we're gonna go now.,disgust,0.3061111271381378
+"Okay, bye.",neutral,0.4907960891723633
+- [♪ upbeat pop music playing],joy,0.9571834206581116
+"- Oh, this is",surprise,0.934928834438324
+the best band ever!,joy,0.5000976324081421
+"- Okay, Riley!",anger,0.4545062780380249
+- Michigan knows what's up!,surprise,0.43334802985191345
+See? As long as,neutral,0.7807261943817139
+"we like what they like,",neutral,0.4765840172767639
+we have all the friends we need.,neutral,0.7006704807281494
+- [Riley laughing],joy,0.7380629777908325
+"- [Sofia] Night, guys.",neutral,0.563220202922821
+"Well, I think",neutral,0.928490400314331
+I'm calling it a night.,neutral,0.5234357118606567
+"- Oh, really?",surprise,0.9647288918495178
+"- Yeah, it's late.",sadness,0.6025660037994385
+"Plus, I think",neutral,0.9174535274505615
+you'll want to get some sleep,neutral,0.7031684517860413
+before tomorrow's scrimmage.,fear,0.6484044194221497
+What scrimmage?,surprise,0.7428219318389893
+Uh. It's just something Coach,neutral,0.9395115971565247
+always does on the last day.,neutral,0.7073698043823242
+It's how Val made the team,neutral,0.9396378993988037
+as a freshman.,fear,0.9415004253387451
+Don't tell her that.,neutral,0.5030197501182556
+Val scored two goals.,joy,0.7993831038475037
+No freshman has ever done that.,neutral,0.8417202234268188
+"Dani, stop.",anger,0.7734515070915222
+"Technically, it's not your",neutral,0.9103770852088928
+"tryout for the next year,",neutral,0.8996345400810242
+but it basically is.,neutral,0.9239452481269836
+You'll do great.,neutral,0.7569648623466492
+Just be yourself.,neutral,0.8372969031333923
+[Anxiety] <i>Did you hear that?</i>,fear,0.9473856091499329
+"We could become a Fire Hawk,",neutral,0.8864678740501404
+"like, tomorrow.",neutral,0.9185910224914551
+But how do we be ourself if,neutral,0.7968961000442505
+our new self isn't ready yet?,neutral,0.5256714820861816
+[grunts] Excellent point.,joy,0.4317273795604706
+Let's get,neutral,0.7944399118423462
+these memories downstairs.,neutral,0.33840593695640564
+[memories clattering],neutral,0.5809025764465332
+Oh...,neutral,0.6805174946784973
+[memories clattering],neutral,0.5809025764465332
+Is that broccoli?,surprise,0.7134424448013306
+We're getting,neutral,0.763732373714447
+"deeper and deeper in, Joy.",neutral,0.49804258346557617
+Great observation.,neutral,0.3396294414997101
+The long way did turn out,neutral,0.8250011205673218
+to be a little longer,neutral,0.5961967706680298
+than I thought.,neutral,0.40788590908050537
+"Anyway,",neutral,0.8964388966560364
+who wants to sing a song?,surprise,0.9125886559486389
+"Oh, I know a song.",surprise,0.4733331501483917
+"It's called, ""I give up.""",anger,0.4646516442298889
+Or let's play the quiet game!,joy,0.531490683555603
+"One, two, three, hush.",disgust,0.48471418023109436
+[Anger] I'll tell you,anger,0.9821142554283142
+"what we do,",neutral,0.8011468648910522
+we go back up there,neutral,0.8840941786766052
+and we kick those...,anger,0.7326459288597107
+"[Joy] Anger,",anger,0.9755832552909851
+now is not the time.,neutral,0.8811416029930115
+"[Disgust] Joy, this is useless.",disgust,0.9772633910179138
+Real Riley is out there,neutral,0.7980558276176453
+"somewhere,",neutral,0.784602165222168
+and we're never,neutral,0.5451723337173462
+going to find her.,neutral,0.586780846118927
+[worker] You know what?,surprise,0.6870942115783691
+"Yeah, these can go.",neutral,0.9257296919822693
+- Forget 'em!,anger,0.8501446843147278
+"- No, no, no, I can find her.",fear,0.5173781514167786
+I just need to get,neutral,0.9433818459510803
+a better view.,neutral,0.7031524181365967
+[gasps],neutral,0.8055470585823059
+[machine whirring],neutral,0.5846157670021057
+"Okay, well, this isn't",neutral,0.45137789845466614
+"working, and that's fine.",neutral,0.8468143343925476
+- Everything's fine.,neutral,0.6701439023017883
+- This is hopeless.,sadness,0.6616674661636353
+I say we cut our losses,neutral,0.6249420642852783
+and walk back.,neutral,0.9239364862442017
+This whole trip is just a series,neutral,0.9345846176147461
+of deader and deader ends.,sadness,0.7157424688339233
+Ever since that,neutral,0.8384041786193848
+puberty alarm went off,fear,0.9243649244308472
+nothing around here works,neutral,0.5820801258087158
+the way it's supposed to!,surprise,0.5462584495544434
+I don't even recognize,surprise,0.4114348292350769
+this place anymore.,disgust,0.8600246906280518
+It's light out at 1:00,neutral,0.7125828266143799
+in the morning!,surprise,0.8154340386390686
+I have never been inside,surprise,0.5249140858650208
+so many jars in my life.,neutral,0.3644547164440155
+And the Riley we knew is gone!,surprise,0.6951462626457214
+"And if Joy can't see that,",neutral,0.5390916466712952
+"well, then, she's delusional!",anger,0.3740267753601074
+Delusional?,anger,0.35257506370544434
+Of course I'm delusional!,anger,0.5207670331001282
+Do you know how hard it is to,surprise,0.2802092730998993
+"stay positive all the time,",neutral,0.9038726687431335
+when all you folks do is,anger,0.6132318377494812
+"complain, complain, complain?",anger,0.9572734236717224
+Jiminy mother-loving,neutral,0.8190119862556458
+toaster strudel!,surprise,0.46460404992103577
+[all gasp],fear,0.4559359550476074
+Do you think,neutral,0.573919415473938
+I have all the answers?,surprise,0.60957932472229
+Of course I don't!,anger,0.5775982737541199
+[sighs],disgust,0.4457285702228546
+We can't even find,surprise,0.3298567235469818
+the back of our own mind.,neutral,0.4332771897315979
+Anxiety is right!,fear,0.8778237104415894
+Riley doesn't need us as much,neutral,0.7537880539894104
+as she needs them.,neutral,0.9451172351837158
+And that hurts.,sadness,0.9350729584693909
+It really hurts.,sadness,0.9283233284950256
+"Joy, you've made",joy,0.6602625250816345
+a lot of mistakes.,sadness,0.7085844874382019
+A lot.,neutral,0.8175411820411682
+And you'll make a whole lot,neutral,0.7757757902145386
+more in the future.,neutral,0.9664444327354431
+"But if you let that stop you,",anger,0.7887932062149048
+we might as well lie down,neutral,0.6589710712432861
+and give up now.,anger,0.5048142671585083
+"Well, actually,",neutral,0.7770103216171265
+that does sound kinda nice.,joy,0.8452011346817017
+Ow!,disgust,0.4210648834705353
+Come on.,anger,0.4805103838443756
+- [Anger] Excuse us.,anger,0.9780828952789307
+- Hey! You can't use that.,anger,0.3602719008922577
+- Riley emergency.,neutral,0.4533744156360626
+- [Fear] Thank you!,fear,0.8624480366706848
+Hop on!,neutral,0.40228986740112305
+[chuckles],neutral,0.7589215636253357
+[all screaming],anger,0.7261609435081482
+[Anger laughing],anger,0.6820386052131653
+[all grunt],disgust,0.41333502531051636
+Let's just forget,neutral,0.9097397327423096
+that ever happened.,surprise,0.6136863231658936
+You don't have to ask me twice.,neutral,0.8830702900886536
+- [Joy sighs],neutral,0.3651531934738159
+- [Disgust groans],disgust,0.9859055280685425
+[Anger groaning],anger,0.9242559671401978
+[gasps] Look.,neutral,0.41821807622909546
+[Fear gasps],fear,0.9585325121879578
+We're right behind you.,neutral,0.7268338799476624
+[sighs],disgust,0.4457285702228546
+- Whoa!,surprise,0.9038791060447693
+- This is great.,joy,0.9614000916481018
+The Fire Hawks have accepted us.,joy,0.46583110094070435
+But if Coach doesn't put us,anger,0.5552346110343933
+"on the team,",neutral,0.5676969289779663
+none of that matters.,neutral,0.6780270934104919
+Tomorrow is everything.,neutral,0.8236879110336304
+Which is why,neutral,0.7828344106674194
+we're gonna need more help.,sadness,0.7534958124160767
+"Ennui, are you paying attention?",surprise,0.3658792972564697
+- No.,neutral,0.8451887965202332
+- Ugh. Embarrassment?,disgust,0.9665407538414001
+"[Grace] <i>Well,",neutral,0.6850050091743469
+this has been really fun.</i>,joy,0.9877488017082214
+[Anxiety distantly],fear,0.9390121698379517
+Embarrassment?,disgust,0.9675129055976868
+- [Bree] <i>Extremely.</i>,fear,0.6256657838821411
+- [Anxiety] Never mind.,fear,0.9430443644523621
+- [Grace] <i>But we're gonna go.</i>,sadness,0.6318547129631042
+"- [Riley] <i>Okay, bye.</i>",neutral,0.568670928478241
+[book thuds],neutral,0.8798149824142456
+Ah!,surprise,0.8778499960899353
+- [gasps],neutral,0.6995549201965332
+"- [Anxiety] Now, let's see.",fear,0.9044590592384338
+What am I looking for?,neutral,0.5535057783126831
+Don't you just hate it,anger,0.7315372824668884
+"when you go to do something,",anger,0.4998776614665985
+"and then you get there to do it,",neutral,0.8396195769309998
+and you forget,neutral,0.4678138196468353
+what you were gonna do?,surprise,0.4355628788471222
+[Envy] We'll need all the help,neutral,0.8859547972679138
+we can get.,neutral,0.8645000457763672
+[Anxiety] That is exactly,fear,0.882695198059082
+what I was thinking.,neutral,0.3997209072113037
+[whimpers],disgust,0.4033295214176178
+Oh...,neutral,0.6805174946784973
+[Anxiety] Most important game,fear,0.9719722867012024
+of our lives.,sadness,0.41369009017944336
+[Embarrassment whimpers],disgust,0.9686434268951416
+"All right, guys,",neutral,0.5976898670196533
+it's gonna be a long night.,sadness,0.7027077674865723
+- [cans popping open],neutral,0.5238532423973083
+"- [gulps, sighs]",joy,0.3922724425792694
+So let's get the team ready.,neutral,0.8978527784347534
+[Joy] Come on. We just need to,neutral,0.6637539863586426
+cut through...,neutral,0.6433401703834534
+[gasps] Imagination Land!,joy,0.6143174767494202
+"Oh, you guys are gonna love it.",joy,0.6527543663978577
+There's French Fry forest,neutral,0.8898596167564392
+and Cloud Town and...,neutral,0.5948823690414429
+Whoa!,surprise,0.8872137069702148
+This place has changed.,neutral,0.7255739569664001
+Mount Crushmore?,surprise,0.6212266087532043
+- Those are her top four?,surprise,0.734854519367218
+- [Disgust sighs],disgust,0.9748709797859192
+The only one that matters,neutral,0.8833782076835632
+is Lance.,neutral,0.9439607262611389
+"Well, at least",neutral,0.9016256928443909
+they got his good side.,neutral,0.8289257884025574
+- Every side is his good side.,joy,0.6131604909896851
+- [posters rustling],neutral,0.8930761218070984
+- <i>The Rumor Mill?</i>,surprise,0.5439679622650146
+- Ooh.,surprise,0.666728675365448
+Where all of our good gossip,neutral,0.9176350831985474
+comes from.,neutral,0.8377653360366821
+"[Vendor] Extra, extra!",surprise,0.3252115547657013
+Pipin' hot rumors,neutral,0.5877357721328735
+right off the mill!,surprise,0.4564448893070221
+"""The teacher's lounge",neutral,0.6908911466598511
+"has a hot tub""?",neutral,0.7594568729400635
+"""Lucy from math class",neutral,0.7473357915878296
+"is legit psychic""?",neutral,0.605301558971405
+"""Abbie R's been texting Mike T,",neutral,0.7250036597251892
+"""but Mike T's been obsessing",neutral,0.5866169929504395
+"over Sarah M""? [gasps]",neutral,0.42304426431655884
+Where's the journalistic,neutral,0.7261778116226196
+integrity?,neutral,0.7612558007240295
+Oh!,surprise,0.8990018963813782
+Fort Pillowton's still here!,surprise,0.7797513008117676
+And it even got bigger.,neutral,0.3693189322948456
+Hmm.,neutral,0.8234972357749939
+And orange?,neutral,0.612415075302124
+"[Anxiety] <i>All right, 22, Riley",fear,0.9052994847297668
+"breaks her leg in practice,</i>",sadness,0.367367684841156
+<i>disappointing everyone.</i>,surprise,0.3773411214351654
+<i>Nice job.</i>,joy,0.9373649954795837
+"<i>Now, 18.",neutral,0.768946647644043
+Val and Dani whispering</i>,fear,0.5042862296104431
+<i>after Riley misses a goal.</i>,sadness,0.8679293394088745
+<i>Great! We need to help,joy,0.8332862257957458
+Riley prepare.</i>,neutral,0.8440318703651428
+<i>Now's the time to send up</i>,neutral,0.9120224118232727
+<i>every possible thing,neutral,0.8283785581588745
+that could go wrong.</i>,fear,0.4101625978946686
+<i>We are looking to the future.</i>,neutral,0.8603830337524414
+<i>Every possible mistake,fear,0.40886691212654114
+she could make.</i>,neutral,0.9140873551368713
+[workers chattering],disgust,0.5132971405982971
+"<i>Come on, 17. I'm not seeing",surprise,0.46361926198005676
+anything from you.</i>,neutral,0.9073548316955566
+[Anxiety],fear,0.9351552128791809
+"<i>Riley misses an open goal,</i>",sadness,0.910163164138794
+<i>Coach writes about it,neutral,0.94268798828125
+in her notebook.</i>,neutral,0.6751236915588379
+<i>Yes!</i>,anger,0.30145955085754395
+<i>More like that.</i>,neutral,0.8110256195068359
+"[Disgust] Oh, no!",disgust,0.9801495671272278
+They're using Riley's,neutral,0.9131200909614563
+imagination against her.,anger,0.42337271571159363
+"<i>Val and her friends like us now,</i>",neutral,0.8139814734458923
+"<i>but if we don't make the team,</i>",sadness,0.46605801582336426
+<i>will they like us tomorrow?</i>,neutral,0.7715567350387573
+[sighs],disgust,0.4457285702228546
+"Okay, let's go to number three.",neutral,0.7877083420753479
+- [both cheering],joy,0.9808863997459412
+"- Bree and Grace's team win,",joy,0.7807456851005554
+- and we look stupid.,anger,0.6760957837104797
+- [groans],neutral,0.8679100871086121
+"Number 22. Val passes to us,",neutral,0.9172205924987793
+and we miss it. [gasps],sadness,0.9492260813713074
+We can't let her,sadness,0.6407253742218018
+do this to Riley.,neutral,0.7159019112586975
+We have to shut this down.,anger,0.41129231452941895
+- [worker groans],neutral,0.43760624527931213
+"- [Anxiety] <i>Love it, 37.</i>",fear,0.9471384286880493
+<i>Riley hits the puck,neutral,0.9153168797492981
+into her own net.</i>,neutral,0.9055204391479492
+- Why are you drawing a hippo?,surprise,0.8802785873413086
+- I'm not.,neutral,0.6576170921325684
+I... [stammers],neutral,0.8113533854484558
+I'm drawing Riley!,joy,0.5274051427841187
+"Joy, you forgot her ponytail.",surprise,0.44860246777534485
+"Oh, I love her pony tail. Yes!",joy,0.9002489447593689
+Riley scores,neutral,0.7526291012763977
+and everyone hugs her?,surprise,0.43351173400878906
+"81, that is not helping.",sadness,0.4492047131061554
+Riley paints her nails,neutral,0.8604010939598083
+to match her jersey.,neutral,0.8498755097389221
+Everybody copies her.,neutral,0.8190944790840149
+And she is so cool.,joy,0.5717787146568298
+Riley wears knee pads.,neutral,0.8455213904380798
+We buy flowers,neutral,0.7887623310089111
+for the losing team!,sadness,0.6746376752853394
+What? I can't always be,surprise,0.9051268696784973
+the rage guy.,anger,0.971997857093811
+"No, no. I liked it.",joy,0.8862003684043884
+Nail polish? Knee pads?,neutral,0.5490646958351135
+I'm starting to think you guys,neutral,0.5065220594406128
+don't understand the assignment.,sadness,0.3965334892272949
+- [can clatters],neutral,0.33239319920539856
+- What...,surprise,0.5586024522781372
+[muffled cheering],anger,0.8756468892097473
+[sighs in relief],sadness,0.4885626435279846
+What? Who sent that,surprise,0.920695960521698
+projection to Riley?,surprise,0.5480454564094543
+- Why would I know that?,surprise,0.8795362114906311
+- Don't look at me.,fear,0.6233096122741699
+[groans],neutral,0.9251315593719482
+- [keys clacking],neutral,0.8370509147644043
+- [console beeping],neutral,0.6927650570869446
+What is going on?,surprise,0.6486635208129883
+Who is sending,surprise,0.5188595056533813
+all this positive...,neutral,0.6848931908607483
+<i>Joy.</i>,joy,0.8033766746520996
+- <i>I know you're in there.</i>,surprise,0.6249590516090393
+- [workers gasping],disgust,0.3558981716632843
+- [worker 1] Is that really her?,surprise,0.8644301295280457
+- [worker 2] Is she really here?,surprise,0.8093304634094238
+[worker 3],neutral,0.8629855513572693
+Joy from Headquarters?,surprise,0.8572530746459961
+The mind police,neutral,0.7594571709632874
+are on their way.,neutral,0.8505173921585083
+[shuts down],anger,0.32730716466903687
+"Well, I think we gave it",neutral,0.9318968057632446
+our best shot.,joy,0.9563862085342407
+Don't listen to Anxiety.,fear,0.672315239906311
+She's using these horrible,disgust,0.8156630396842957
+projections to change Riley.,neutral,0.9222305417060852
+"<i>Joy, I'm doing this for you!</i>",joy,0.9123232364654541
+This is all,neutral,0.923151433467865
+so Riley can be happier.,joy,0.7723971009254456
+"If you wanted her to be happy,",neutral,0.5409319400787354
+then you'd stop hurting her.,anger,0.6488989591598511
+Who's with me?,surprise,0.6485046148300171
+- [worker 4] Uh-uh.,neutral,0.6381623148918152
+- [workers whimpering],sadness,0.35164302587509155
+Really? Nothing?,surprise,0.947587788105011
+"[Anxiety] <i>Sorry, Joy.</i>",sadness,0.8107717037200928
+- [screen chimes],neutral,0.7574672102928162
+"- Yeah! I see you, 87.",surprise,0.6395252346992493
+A cat.,disgust,0.8484935760498047
+"A little off-topic,",neutral,0.8944303393363953
+but I'll take it.,neutral,0.7016346454620361
+Who else? Come on!,anger,0.7066070437431335
+<i>What if Riley is better than Val</i>,neutral,0.37114429473876953
+<i>and then Val hates her?</i>,anger,0.6983866691589355
+Or what if Riley is better,neutral,0.7772216796875
+than Val and Val respects her?,neutral,0.7641571164131165
+- [screens chiming],neutral,0.7071908712387085
+- [Joy] Yeah! There we go!,joy,0.724786102771759
+[sighs softly],sadness,0.748194694519043
+What if Riley is so bad she,fear,0.5485153198242188
+has to give up hockey forever?,sadness,0.6214085817337036
+What if Riley does so well,neutral,0.5613903403282166
+"that the coach cries,",sadness,0.8970354199409485
+"and the Olympics call,",neutral,0.8836565017700195
+and she rallies,neutral,0.7214540839195251
+a weary nation to victory?,sadness,0.8276543617248535
+"Uh, Joy,",neutral,0.9068627953529358
+reality is also a thing.,neutral,0.8662389516830444
+[screens chiming],neutral,0.8138879537582397
+No!,anger,0.5688469409942627
+Anxiety has got you all,fear,0.9023381471633911
+"chained to desks,",neutral,0.6474406123161316
+drawing nightmares!,fear,0.9535094499588013
+But you don't have to,neutral,0.8834165334701538
+take it anymore!,anger,0.9574372172355652
+Pencils down! Projections off!,neutral,0.5508988499641418
+Yeah!,surprise,0.4714649021625519
+- Enough is enough!,anger,0.502907931804657
+- [worker cheering],joy,0.9834752082824707
+[gasps] My projections!,surprise,0.7828930020332336
+Pillow fight!,joy,0.31714531779289246
+[all laughing],joy,0.6461085081100464
+[all cheering],joy,0.96319979429245
+For Riley!,neutral,0.40171894431114197
+- <i>We need to be prepared.</i>,fear,0.4785102307796478
+- [screen shatters],sadness,0.5678137540817261
+Oh! No!,surprise,0.7196395397186279
+[sighs in relief],sadness,0.4885626435279846
+"Okay, it's time to go!",anger,0.5019704103469849
+"Yeah, I think so.",neutral,0.9192123413085938
+"- Bring it on, coppers!",joy,0.466518372297287
+"- [Joy] Oh, no, no, no.",surprise,0.3961634933948517
+[cop blows whistle],anger,0.4442014694213867
+- [worker cheers],joy,0.9556959867477417
+- [cop groans],disgust,0.6081346273422241
+"[cop] Hey, get back here!",joy,0.624798059463501
+Quick! To the Parade,surprise,0.5448335409164429
+of Future Careers!,neutral,0.45567744970321655
+[workers chattering],disgust,0.5132971405982971
+Grab a balloon!,anger,0.6214043498039246
+"- [Disgust] Oh, a pastry chef!",disgust,0.9874424338340759
+- [Joy] Underpaid!,anger,0.2903851270675659
+- [Fear] Art teacher!,fear,0.9877827763557434
+- [Joy] Underappreciated.,joy,0.8226505517959595
+"- Oh, ethnomusicologist!",surprise,0.7745215892791748
+- I don't understand,surprise,0.6829895973205566
+what that is. Oh!,surprise,0.9238982200622559
+Supreme Court justice!,surprise,0.7716261148452759
+- That's the one!,surprise,0.7529144287109375
+- I trust her judgment.,neutral,0.463361918926239
+Get back here!,neutral,0.4115573465824127
+- [Disgust] Move!,disgust,0.9730345606803894
+- [cop] They're getting away!,anger,0.3747977018356323
+[chuckles] Yes! Now Riley can,surprise,0.47205498814582825
+get some sleep.,neutral,0.6249964833259583
+[Fear sobbing],fear,0.9711102843284607
+I miss the jar!,sadness,0.927452027797699
+Joy doesn't get it.,sadness,0.3567599952220917
+"Without our projections,",sadness,0.5127215385437012
+we won't be prepared.,neutral,0.5180947184562683
+Tomorrow's game is everything.,neutral,0.8142445087432861
+Coach will either,neutral,0.9379886388778687
+make us a Fire Hawk,neutral,0.8817062377929688
+or doom us,sadness,0.7239886522293091
+to a friendless future.,neutral,0.4766252934932709
+I wish we knew what,surprise,0.48522210121154785
+Coach thought about us.,disgust,0.718848705291748
+- [gasps] Her notebook!,surprise,0.48022204637527466
+- Yes! That's a great idea!,joy,0.918731153011322
+[Dani] <i>Everything Coach thinks,neutral,0.8928617238998413
+about you is in there.</i>,neutral,0.5446780323982239
+All we got to do is sneak,neutral,0.7549415826797485
+into her office,neutral,0.493379682302475
+- and read it.,neutral,0.9270371198654175
+- [Embarrassment whimpers],disgust,0.9535856246948242
+"[Anxiety] <i>Come on, Riley.",fear,0.9783018827438354
+Move those feet.</i>,neutral,0.9310015439987183
+She doesn't want to?,disgust,0.5261715054512024
+"Uh, are we pushing her too hard?",disgust,0.30204394459724426
+We got to see,joy,0.5336981415748596
+what's in the notebook!,surprise,0.9104164242744446
+It's the only way for us,neutral,0.8895072340965271
+to know how we can do better.,neutral,0.6998481154441833
+"Oh, Riley, no.",neutral,0.3411766290664673
+[whimpers] Oh. Hmm.,disgust,0.46358609199523926
+[whispering],disgust,0.7822982668876648
+"Joy? Come in, Joy.",neutral,0.4529975652694702
+"[Joy loudly, over radio]",neutral,0.7275604605674744
+<i>Sadness?</i>,sadness,0.9849958419799805
+[muffled],anger,0.8845477104187012
+"<i>Sadness, what's wrong?</i>",sadness,0.985076367855072
+Why is Riley awake again?,surprise,0.5642711520195007
+- Over.,neutral,0.7624445557594299
+- [Fear screaming],fear,0.9792631268501282
+Anxiety is making Riley,fear,0.9432423710823059
+break into the coach's office.,anger,0.3825441300868988
+- What?,surprise,0.9411997199058533
+- She knows better than that.,neutral,0.8592647314071655
+She will once we get her,neutral,0.9572260975837708
+Sense of Self back.,neutral,0.7214128971099854
+"Sadness, you have to stop her.",sadness,0.9768543839454651
+<i>Just don't get caught.</i>,fear,0.34332984685897827
+- <i>Over!</i>,neutral,0.37483152747154236
+- [radio beeps],neutral,0.5439005494117737
+[♪ tense music playing],neutral,0.7027703523635864
+[door clatters],anger,0.45853450894355774
+[Sadness] Psst.,sadness,0.9762187004089355
+Psst!,surprise,0.34432536363601685
+- [distant clattering],neutral,0.45703616738319397
+- [footsteps approaching],fear,0.43051403760910034
+- [door closes],neutral,0.46554386615753174
+- [gasps],neutral,0.6995549201965332
+[footsteps approaching],fear,0.6709100604057312
+[lock clicking],neutral,0.9017418622970581
+[breathing heavily],disgust,0.7270299196243286
+[Anxiety and Envy exclaiming],fear,0.9544482231140137
+[sighs in relief],sadness,0.4885626435279846
+"- No, Riley, no.",neutral,0.8651694655418396
+- [Ennui yawns],neutral,0.5858269333839417
+[yawns],joy,0.5019993185997009
+Oh!,surprise,0.8990018963813782
+[sniffles],neutral,0.7100306153297424
+Why did she stop?,anger,0.7401120662689209
+[gasps] Sadness?,sadness,0.977959156036377
+Ennui! Where's your phone?,surprise,0.599059522151947
+"Ooh, la, la, my phone?",surprise,0.7621161341667175
+Where is my phone?,neutral,0.6130455136299133
+Seriously?,surprise,0.9458245635032654
+This is not happening!,anger,0.6581318378448486
+"No, no, no!",fear,0.5004587173461914
+"Okay, she's got to be here",neutral,0.618020236492157
+somewhere. Find her.,neutral,0.9197049736976624
+- Gotcha!,joy,0.6779974699020386
+- [books clatter],neutral,0.7679073810577393
+[sighs in relief],sadness,0.4885626435279846
+Sadness.,sadness,0.9730008244514465
+[Sadness] Uh... No.,sadness,0.9665669202804565
+[sighs] I know Riley,sadness,0.6782736778259277
+sneaking around feels wrong.,sadness,0.8343316912651062
+This isn't who Riley is.,neutral,0.8462015390396118
+It's not about who Riley is.,neutral,0.956987738609314
+It's about who she needs to be.,neutral,0.9396306276321411
+[gasps],neutral,0.8055470585823059
+[gasps],neutral,0.8055470585823059
+"""Not ready yet""?",neutral,0.6815510392189026
+Wait. Coach already decided?,surprise,0.7554723620414734
+We're not making the team?,surprise,0.6524352431297302
+No. We have one day left.,neutral,0.8981820344924927
+What do we do? What can we do?,fear,0.5466011762619019
+"- Okay, okay, okay.",neutral,0.2693607211112976
+- What would Val do?,fear,0.5089586973190308
+"Uh, well, we're just gonna",neutral,0.8473759889602661
+have to change Coach's mind.,sadness,0.447055846452713
+Which means,neutral,0.7703131437301636
+we're gonna need ideas.,neutral,0.6751112341880798
+Lots of them.,neutral,0.7725927829742432
+[thunder rumbles distantly],fear,0.6063610315322876
+- [thunder rumbling],sadness,0.4459608197212219
+- Ow!,surprise,0.4674956798553467
+"Oh, no. It's a Brainstorm!",surprise,0.7024073600769043
+- [all screaming],anger,0.5086983442306519
+- [Fear] Too close!,fear,0.979462206363678
+Hog the puck?,surprise,0.4054565131664276
+Trash talk the other team?,neutral,0.6018403768539429
+- [laughing] Ooh!,joy,0.6286478638648987
+- Yes!,joy,0.31348249316215515
+We can't let these bad ideas,disgust,0.38449716567993164
+get to Riley. [grunts],neutral,0.7350831627845764
+Joy!,joy,0.8137962222099304
+[rumbling],neutral,0.27186352014541626
+- Smash as many as you can!,neutral,0.4196898937225342
+- Joy!,joy,0.8976777195930481
+Joy!,joy,0.8137962222099304
+[all screaming],anger,0.7261609435081482
+I'll start sorting these into,neutral,0.9254016876220703
+ideas I wish I'd thought of.,surprise,0.5604398250579834
+"Oh, no, no, no.",disgust,0.34171560406684875
+None of these are good enough.,neutral,0.749732255935669
+We need more. Get more!,neutral,0.6179925799369812
+[grunting],disgust,0.5870199203491211
+Get on the balloon!,anger,0.3963017463684082
+[grunting] Whoa!,surprise,0.8259303569793701
+"[grunting, spits]",disgust,0.8457465171813965
+This is worse than the broccoli!,disgust,0.9520824551582336
+[breathing heavily],disgust,0.7270299196243286
+[gasps] Quick! Grab an idea.,neutral,0.5792397856712341
+"[grunts, screams]",disgust,0.5565637350082397
+- Whoa!,surprise,0.9038791060447693
+- These ideas are too small.,neutral,0.6955135464668274
+These ideas are too small!,surprise,0.4755006730556488
+We need something bigger.,neutral,0.9226913452148438
+[gasps],neutral,0.8055470585823059
+That's our way out!,joy,0.3167155981063843
+[panting],disgust,0.4002476632595062
+Ready?,neutral,0.7957932353019714
+- [Joy grunts],neutral,0.7593194246292114
+- [all screaming],anger,0.5086983442306519
+Joy! We need this idea!,joy,0.8359887003898621
+If Riley takes,neutral,0.8671090602874756
+"one of these ideas,",neutral,0.8768265843391418
+it could be a disaster!,fear,0.6194798350334167
+"Joy, the only way out is up.",neutral,0.37457048892974854
+[all screaming],anger,0.7261609435081482
+[all grunt],disgust,0.41333502531051636
+[thuds],neutral,0.5993871688842773
+That's a big idea!,surprise,0.45283982157707214
+Whoa! I like it.,joy,0.695455014705658
+"- Oh, no.",neutral,0.3511427640914917
+- [all screaming],anger,0.5086983442306519
+Hold me!,anger,0.7880039215087891
+- Seriously. Hold me!,anger,0.6948242783546448
+- [Disgust screaming],disgust,0.9780656695365906
+[Anger screaming],anger,0.9811998009681702
+"[Disgust] Fear,",disgust,0.937188982963562
+you have a parachute?,surprise,0.922538161277771
+"[Fear] Uh, yes.",fear,0.9303287863731384
+"The real question is,",neutral,0.9067284464836121
+why don't any of you?,surprise,0.4705888628959656
+[Disgust laughs],disgust,0.9808201193809509
+- [Fear] Land! Yes!,fear,0.9732577800750732
+- [Disgust] Yes!,disgust,0.9832711815834045
+- [Fear] Stuck the landing!,fear,0.9772624969482422
+- We did it!,anger,0.436435729265213
+- We made it!,surprise,0.3731074035167694
+- [Anger laughing],anger,0.8668931126594543
+"Come on,",neutral,0.5753133296966553
+to the Back of the Mind!,surprise,0.7295061945915222
+"You're finished, Anxiety!",fear,0.6125102043151855
+[warbling weakly],neutral,0.6177145838737488
+Coach is right.,neutral,0.9342147707939148
+Riley isn't ready.,neutral,0.5336937308311462
+But we're so close,surprise,0.44283971190452576
+to a new Riley who is.,surprise,0.6955068111419678
+This is what we're missing.,neutral,0.87498939037323
+We show them we're a Fire Hawk,neutral,0.8868054151535034
+who will do whatever it takes.,neutral,0.8129636645317078
+[♪ thrilling music playing],joy,0.9621039032936096
+"Finally, we're one of them!",surprise,0.38982078433036804
+"What do you think, Sadness?",sadness,0.8081206679344177
+"- Well, I...",neutral,0.6137808561325073
+- Awesome!,joy,0.9024874567985535
+[Envy],neutral,0.9438496232032776
+<i>Red is really our color.</i>,neutral,0.8951248526573181
+"[Bree] Yeah, no,",disgust,0.6487970948219299
+"I mean, it's so much fun.",joy,0.9866976141929626
+[Bree chuckling],neutral,0.37500107288360596
+"Okay, it's giving jealousy.",disgust,0.4988987445831299
+I'm sorry.,sadness,0.9113796353340149
+[scoffs],neutral,0.6531535983085632
+They wouldn't know cool,surprise,0.4740613102912903
+if it hit them in the face.,anger,0.900883674621582
+[Valentina],neutral,0.9055547118186951
+"Hey, Michigan.",neutral,0.48800966143608093
+"Oh! Rocking the red, huh?",joy,0.47477033734321594
+- Yes!,joy,0.31348249316215515
+- We are in.,neutral,0.8720536231994629
+[chuckles] I hope it's okay.,neutral,0.8186975121498108
+I know I'm not officially,neutral,0.6916568279266357
+"a Fire Hawk yet,",neutral,0.6832637190818787
+but I figured since we're,neutral,0.8385899066925049
+on the same team,neutral,0.719691812992096
+"we should match, right?",neutral,0.5179815888404846
+"Yeah, yeah, that's fine.",neutral,0.43861961364746094
+"Did you, um, sleep last night?",neutral,0.5144570469856262
+"No, how could I?",surprise,0.6088303923606873
+Big game today!,joy,0.4391094446182251
+You mean the camp scrimmage?,surprise,0.382065087556839
+See? I told you,surprise,0.6539777517318726
+not to freak her out.,fear,0.40577206015586853
+"You're all good, okay?",neutral,0.3694799840450287
+I see you're in your zone.,surprise,0.4556826055049896
+Get ready to score some goals.,neutral,0.8554366230964661
+Yeah! I will!,anger,0.7034324407577515
+Val scored two goals,joy,0.7690941691398621
+in the scrimmage,fear,0.29657530784606934
+to become a Fire Hawk.,fear,0.696131706237793
+And you know,neutral,0.7562380433082581
+what's better than two?,surprise,0.8477800488471985
+- Three!,surprise,0.5301271080970764
+- Three!,surprise,0.5301271080970764
+I was just about to say that.,neutral,0.8089417815208435
+We were about to say that,neutral,0.6256972551345825
+at the same time.,surprise,0.625445544719696
+But how are we gonna score,neutral,0.5485897660255432
+three goals?,surprise,0.9161584377288818
+The new Riley,neutral,0.885317862033844
+will handle anything.,neutral,0.47417259216308594
+And I think this,neutral,0.550874650478363
+is the finishing touch.,neutral,0.758007824420929
+[panel chimes],neutral,0.8790956735610962
+I'll be right back.,neutral,0.9285252094268799
+[grunting],disgust,0.5870199203491211
+Come on!,anger,0.7241723537445068
+- We're so close.,surprise,0.597123384475708
+- [all grunting],neutral,0.6492214202880859
+The Sense of Self is just,neutral,0.8628281950950623
+on top of that mount... [gasps],neutral,0.6159862279891968
+That is a lot.,neutral,0.7109581232070923
+This is more than I remember,neutral,0.6031666994094849
+sending back here.,neutral,0.42769357562065125
+"Oh, when she walked into",surprise,0.6086458563804626
+that glass door at that party.,disgust,0.3517540395259857
+Oof!,disgust,0.45278558135032654
+"Yeah, and breaking",anger,0.5878333449363708
+Grandma's favorite plate.,neutral,0.4893037676811218
+Thank goodness,joy,0.4846523404121399
+these aren't part of her.,neutral,0.7685757279396057
+- [Fear] Phew!,fear,0.8489786982536316
+"- [Disgust] Oh, yeah.",disgust,0.9842656850814819
+[giggling],disgust,0.613788366317749
+[crackling],anger,0.5072534084320068
+[squeals],neutral,0.6082695722579956
+[grunts] There it is.,neutral,0.8356066346168518
+[grunting],disgust,0.5870199203491211
+[warbling],neutral,0.6213586926460266
+"[Riley echoing, fading]",neutral,0.32788917422294617
+<i>I'm a good person.</i>,joy,0.9581210017204285
+"Oh, no.",disgust,0.23084723949432373
+[Anxiety panting],fear,0.8605377674102783
+"Yes. Come on, come on.",anger,0.42273131012916565
+Here we go!,joy,0.5272075533866882
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+What?,surprise,0.9222372174263
+[echoing] <i>I'm not good enough.</i>,sadness,0.9163985848426819
+[ground rumbling],fear,0.22660647332668304
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+- [Embarrassment whimpering],disgust,0.9224136471748352
+- Are you sure...,surprise,0.6260949373245239
+Don't worry.,fear,0.7087680697441101
+It's just that she knows that,neutral,0.9512524008750916
+there's always room,neutral,0.8973367214202881
+for self-improvement.,neutral,0.5778678059577942
+She'll be fine.,neutral,0.8745251893997192
+"Sadness,",sadness,0.9749632477760315
+we have the Sense of Self.,neutral,0.8847246766090393
+[over radio] <i>Bring us back!</i>,neutral,0.5316370129585266
+"- <i>Sadness, do you copy?</i>",sadness,0.9837170839309692
+- [struggling],fear,0.9776753783226013
+Psst. Psst!,neutral,0.41543617844581604
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+Oh...,neutral,0.6805174946784973
+"Okay, I can work with this.",neutral,0.7739794850349426
+I just need to recalibrate,neutral,0.8493057489395142
+the console and make sure,neutral,0.9316644668579102
+it's ready.,neutral,0.8748700022697449
+Just no more surprises.,surprise,0.47899168729782104
+"Okay, this one goes here.",neutral,0.8644486665725708
+Check.,neutral,0.9530041813850403
+That one goes there.,neutral,0.9275446534156799
+Check.,neutral,0.9530041813850403
+Not exactly there.,neutral,0.7614964246749878
+Here.,neutral,0.9620909094810486
+Come on.,anger,0.4805103838443756
+Turn it up a little bit.,neutral,0.9318135976791382
+It's got to be,neutral,0.8344298005104065
+absolutely perfect.,neutral,0.529430627822876
+That one is definitely wrong.,disgust,0.5586853623390198
+What is happening?,surprise,0.792202889919281
+- [radio chirps],joy,0.6630391478538513
+"- [Joy] <i>Sadness, now!</i>",sadness,0.9830198884010315
+[screaming],fear,0.9269857406616211
+[pipes clang],neutral,0.7653909921646118
+[clattering],disgust,0.7017748951911926
+Oh...,neutral,0.6805174946784973
+Joy...,neutral,0.4686362147331238
+"- Oh, no!",surprise,0.5286977887153625
+- Uh...,neutral,0.8560205698013306
+[pipes clattering],anger,0.32832542061805725
+[all scream],anger,0.6554564237594604
+[memories clattering],neutral,0.5809025764465332
+[Riley distorted],disgust,0.437246173620224
+<i>I'm a good person.</i>,joy,0.9581210017204285
+[echoing],neutral,0.9073797464370728
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+That was our only way back.,neutral,0.9292506575584412
+- What do we do?,surprise,0.36119744181632996
+- We were so close.,surprise,0.7073046565055847
+Joy. Joy!,joy,0.7928696274757385
+Where are you going?,neutral,0.46486973762512207
+- [blows whistle],neutral,0.6015510559082031
+- <i>Twenty-eight!</i>,surprise,0.489419549703598
+"<i>Andersen, tripping!</i>",surprise,0.5964754223823547
+- [blows whistle],neutral,0.6015510559082031
+- <i>Twenty-eight!</i>,surprise,0.489419549703598
+"<i>Andersen, tripping!</i>",surprise,0.5964754223823547
+[rewinding],neutral,0.9124090671539307
+[fast-forwarding],neutral,0.9149642586708069
+- [blows whistle],neutral,0.6015510559082031
+- <i>Twenty-eight!</i>,surprise,0.489419549703598
+"- <i>Andersen, tripping!</i>",surprise,0.5230450630187988
+- [sighs],sadness,0.8399519920349121
+[teacher],disgust,0.4603329002857208
+"<i>I expected better, Riley.</i>",neutral,0.6915329694747925
+- [fast-forwarding],neutral,0.9155849814414978
+"- [Joy pants, stutters]",neutral,0.4463304281234741
+That's not...,neutral,0.8350673317909241
+"[stutters, pants]",neutral,0.6896315813064575
+- What...,surprise,0.5586024522781372
+- [memories overlapping],neutral,0.7915894389152527
+"Come on, please.",neutral,0.3166568875312805
+What am I missing?,neutral,0.3678527772426605
+[Riley distorted],disgust,0.437246173620224
+<i>I'm a good person.</i>,joy,0.9581210017204285
+[Sense of Self warbles],neutral,0.4000619947910309
+Joy...,neutral,0.4686362147331238
+so what do we do now?,surprise,0.41503268480300903
+I don't know.,surprise,0.6272881031036377
+I don't know,surprise,0.7713064551353455
+how to stop Anxiety.,fear,0.9415761232376099
+Maybe we can't.,neutral,0.8604363203048706
+Maybe this is what happens,neutral,0.9103336334228516
+when you grow up.,neutral,0.4011975824832916
+You feel less joy.,joy,0.9286552667617798
+But I do know this.,neutral,0.7312774658203125
+Riley will never be herself,neutral,0.7277697920799255
+if we don't get this,anger,0.5003730654716492
+back to Headquarters.,neutral,0.8937566876411438
+Fast.,neutral,0.783185601234436
+How?,surprise,0.914523720741272
+[blows whistle],neutral,0.45845821499824524
+"Have a good game, Riley.",neutral,0.6309183835983276
+You too.,neutral,0.9028905630111694
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+[players grunting],disgust,0.7927693724632263
+[Riley grunting],disgust,0.7021637558937073
+[player] Whoa!,surprise,0.9051578044891357
+"Yes! Go, go, go!",anger,0.8232344388961792
+"[Dani] Riley, I'm open.",neutral,0.6506820321083069
+"Pass it, pass it!",anger,0.8658353686332703
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+[Riley grunts],disgust,0.7054954171180725
+- [buzzer sounds],joy,0.4625745415687561
+"- Yeah, Michigan!",surprise,0.3589896261692047
+Leave some,neutral,0.9348061084747314
+"for the rest of us, huh?",neutral,0.4008694589138031
+"Yes! One down, two to go.",neutral,0.48653823137283325
+"[Disgust] Okay, so how do we",disgust,0.9565085768699646
+get our Sense of Self,neutral,0.7489278316497803
+from here to there?,neutral,0.5095517635345459
+[Anger groans],anger,0.9507935643196106
+"I have an idea,",neutral,0.7597933411598206
+but I really don't like it.,sadness,0.6279470920562744
+"Anger, Riley needs us.",anger,0.9857775568962097
+"Oh, Pouchy!",surprise,0.35218361020088196
+[echoing],neutral,0.9073797464370728
+"Well, what are you",neutral,0.5541206002235413
+waiting for? Say the words!,surprise,0.43151676654815674
+"Oh, Pouchy!",surprise,0.35218361020088196
+[echoing],neutral,0.9073797464370728
+[♪ amusing music plays],joy,0.9668135643005371
+"Hi, everybody. I'm Pouchy!",joy,0.7602896690368652
+We know.,neutral,0.7751092314720154
+"Pouchy, we need to",neutral,0.8111585378646851
+get back to Headquarters.,neutral,0.9498305320739746
+Do you have anything,neutral,0.9105376601219177
+that can help us?,neutral,0.7760574817657471
+I have lots of items.,neutral,0.9097098112106323
+Which one do you think,neutral,0.6685572266578674
+will work the best?,neutral,0.8350186347961426
+"A roll of tape,",neutral,0.4273535907268524
+- a rubber ducky...,neutral,0.4631032645702362
+- [Anger] No time!,anger,0.9834365844726562
+- [Pouchy gagging],disgust,0.8592178821563721
+- Huh?,surprise,0.9447968006134033
+Hmm.,neutral,0.8234972357749939
+"Seriously, Pouchy? Dynamite?",surprise,0.8826478123664856
+"Don't you have, like,",neutral,0.3762402832508087
+a jetpack or a plane,neutral,0.6447153687477112
+or something,neutral,0.6435843110084534
+that's going to help us?,surprise,0.8068526983261108
+"What do you think,",neutral,0.7513981461524963
+I have everything in here?,surprise,0.8325808644294739
+"I offered you the rubber ducky,",neutral,0.7812175750732422
+I offered you the tape.,neutral,0.7752899527549744
+I know what to do.,neutral,0.6965652108192444
+But we're gonna need,neutral,0.7583033442497253
+a lot more dynamite.,joy,0.2992353141307831
+You know what? Good luck...,neutral,0.49287116527557373
+[gagging],disgust,0.5861393809318542
+[players shouting indistinctly],fear,0.574642539024353
+"[Anxiety] <i>Come on, Riley.",fear,0.9783018827438354
+Get the puck!</i>,anger,0.49683064222335815
+"Take it, take it!",anger,0.9113757610321045
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+[Riley grunting],disgust,0.7021637558937073
+"Michigan, what are you doing?",surprise,0.7881354093551636
+We're on the same team!,surprise,0.6071583032608032
+[panting],disgust,0.4002476632595062
+[Riley grunts],disgust,0.7054954171180725
+[buzzer sounds],neutral,0.49746623635292053
+Yes!,anger,0.5300906896591187
+"Well, Dani might be",neutral,0.9522638916969299
+"a little mad at us,",anger,0.8469752669334412
+but they'll all forgive us,neutral,0.4956693649291992
+when we make the team.,joy,0.8771489858627319
+"Come on, Riley. One more goal.",neutral,0.7365286946296692
+"[Disgust] Uh... Hold on, Joy.",disgust,0.9817703366279602
+We're gonna,neutral,0.47242239117622375
+- blow up this cliff?,surprise,0.5379672050476074
+- Yep!,joy,0.40486493706703186
+And then we'll ride an avalanche,neutral,0.5266864895820618
+of bad memories,sadness,0.9348143339157104
+back to Headquarters?,surprise,0.5353440046310425
+Yeah!,surprise,0.4714649021625519
+And how do we,neutral,0.8650431632995605
+keep the bad memories,neutral,0.74591463804245
+from forming bad beliefs?,neutral,0.3017285168170929
+I don't know.,surprise,0.6272881031036377
+"Um, yeah! What could go wrong?",anger,0.5054544806480408
+I'm in!,surprise,0.7822710871696472
+Ready?,neutral,0.7957932353019714
+- For Riley.,neutral,0.6485558152198792
+- Let's do it.,neutral,0.6841289401054382
+"Here we come, Riley.",neutral,0.8543868660926819
+[explosion],surprise,0.4956144690513611
+[rumbling],neutral,0.27186352014541626
+[♪ thrilling music playing],joy,0.9621039032936096
+Jump on!,neutral,0.658556342124939
+[all grunt],disgust,0.41333502531051636
+[all screaming],anger,0.7261609435081482
+[grunting],disgust,0.5870199203491211
+[screams],fear,0.7690978646278381
+[Riley grunts],disgust,0.7054954171180725
+- Come on!,joy,0.3405129909515381
+- [grunts],neutral,0.6446436643600464
+"Aw, man!",surprise,0.7597833275794983
+[Riley grunts],disgust,0.7054954171180725
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+[Anxiety] <i>You have to score!</i>,fear,0.9681376814842224
+[players shouting],anger,0.5519288778305054
+[both grunt],disgust,0.47825106978416443
+[Grace exclaims],joy,0.622459352016449
+"[Riley grunts, groans",disgust,0.837434709072113
+in frustration],anger,0.9557074308395386
+[blows whistle],neutral,0.45845821499824524
+"Andersen,",neutral,0.8188978433609009
+"penalty box, two minutes.",neutral,0.8313007950782776
+No!,anger,0.5688469409942627
+"Grace, are you okay?",anger,0.48841598629951477
+[panting],disgust,0.4002476632595062
+We hurt Grace.,sadness,0.8864942789077759
+It all happened so fast.,surprise,0.8401381373405457
+I didn't even see her.,disgust,0.7719272971153259
+[Riley panting],neutral,0.6158643364906311
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+"Oh, no. What did I do?",surprise,0.6647125482559204
+[breathing heavily],disgust,0.7270299196243286
+"No, no.",neutral,0.42817169427871704
+"I can fix it, I can fix it.",neutral,0.7024324536323547
+[heart palpitating],sadness,0.8852719664573669
+[memories clattering],neutral,0.5809025764465332
+[Sense of Self warbling],disgust,0.5435500741004944
+[gasps],neutral,0.8055470585823059
+[grunting],disgust,0.5870199203491211
+[grunts],neutral,0.6844353079795837
+[Disgust gasping],disgust,0.9797229170799255
+"[Joy grunts, gasps]",disgust,0.6394163966178894
+[coughing],disgust,0.7741342782974243
+[teacher],disgust,0.4603329002857208
+"<i>I expected better, Riley.</i>",neutral,0.6915329694747925
+Wait... No!,anger,0.27255481481552124
+[grunts] Come on.,neutral,0.7179756760597229
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+"Come on, Riley.",neutral,0.7708725333213806
+Get it together.,anger,0.5823867321014404
+"[Anxiety] Come on, Riley,",fear,0.8844447135925293
+get it together.,neutral,0.7679829597473145
+- <i>I'm not good enough.</i>,sadness,0.9685052037239075
+- [palpitations intensify],sadness,0.4071274995803833
+"You have to score, Riley!",anger,0.49911513924598694
+Or this will all,neutral,0.939863383769989
+- have been for nothing!,surprise,0.5003244280815125
+- [whooshing],surprise,0.7958216667175293
+"Anxiety, you're putting",fear,0.7485653162002563
+too much pressure on her.,sadness,0.4982285797595978
+[Envy grunts],disgust,0.4732719361782074
+[grunting],disgust,0.5870199203491211
+[all grunting],disgust,0.5789402723312378
+- [hyperventilating],neutral,0.5291513800621033
+- [heart palpitating],sadness,0.9160833358764648
+[whistle blows],anger,0.6146985292434692
+"[coach] Okay,",neutral,0.5258080959320068
+let's take a breather!,neutral,0.5844271779060364
+- [Joy gasps],neutral,0.7310983538627625
+- [buttons clacking],neutral,0.7034945487976074
+- Sadness!,sadness,0.9779394268989563
+- Joy! Help!,joy,0.9152107834815979
+[all grunting],disgust,0.5789402723312378
+Come on! We can do this!,anger,0.8481910824775696
+It's not working!,anger,0.5102922916412354
+It's Anxiety.,fear,0.7962060570716858
+[Joy groans in frustration],anger,0.9551668763160706
+[grunting],disgust,0.5870199203491211
+"[strains, grunts, yells]",anger,0.6758742928504944
+"Anxiety, stop! [gasps]",fear,0.9497513175010681
+You don't get to choose,neutral,0.7694825530052185
+who Riley is.,neutral,0.908322811126709
+Anxiety...,fear,0.9049204587936401
+you need to let her go.,sadness,0.4030807316303253
+[grunts],neutral,0.6844353079795837
+[panting],disgust,0.4002476632595062
+[Sense of Self warbles],neutral,0.4000619947910309
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm a good person.</i>,joy,0.9581210017204285
+- [breathing heavily],disgust,0.6574811339378357
+- [heart palpitating rapidly],sadness,0.7666430473327637
+[Anxiety] Joy.,fear,0.7545290589332581
+I'm sorry.,sadness,0.9113796353340149
+I was just,neutral,0.7745875120162964
+trying to protect her.,anger,0.5969988107681274
+But you're right.,neutral,0.6798719167709351
+We don't get to choose,neutral,0.7413832545280457
+who Riley is.,neutral,0.908322811126709
+We keep the best,neutral,0.9600294828414917
+and toss the rest.,neutral,0.9098548889160156
+- [blows whistle],neutral,0.6015510559082031
+- <i>Twenty-eight!</i>,surprise,0.489419549703598
+"<i>Andersen, tripping!</i>",surprise,0.5964754223823547
+[trilling],neutral,0.9144841432571411
+[Riley grunts],disgust,0.7054954171180725
+[screams],fear,0.7690978646278381
+[trilling intensifies],neutral,0.38136616349220276
+- [groaning],neutral,0.60867840051651
+- [heart palpitating rapidly],sadness,0.7666430473327637
+[warbling],neutral,0.6213586926460266
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm a good person.</i>,joy,0.9581210017204285
+[shatters],anger,0.2761926054954529
+Joy! What are you doing?,surprise,0.695465087890625
+- [breathing rapidly],fear,0.49212515354156494
+- [heart palpitating rapidly],sadness,0.7666430473327637
+[Riley echoing],neutral,0.8419197201728821
+<i>I'm selfish.</i>,anger,0.8800610303878784
+<i>I'm kind.</i>,neutral,0.7225653529167175
+<i>I'm not good enough.</i>,sadness,0.9422892928123474
+<i>I'm a good person.</i>,joy,0.9581210017204285
+- <i>I need to fit in...,neutral,0.5488108396530151
+- [panting]</i>,anger,0.42103466391563416
+[Riley],neutral,0.9115553498268127
+<i>...but I want to be myself.</i>,sadness,0.8610841035842896
+"<i>I'm brave, but I get scared.</i>",fear,0.990809440612793
+<i>Success is everything.,neutral,0.8177395462989807
+I make mistakes.</i>,sadness,0.5783064365386963
+<i>I'm nice.,joy,0.8653970956802368
+I'm mean.</i>,disgust,0.6741008162498474
+<i>I'm a good friend.</i>,joy,0.9773722290992737
+<i>I'm a terrible friend.,fear,0.9261012077331543
+I am strong.</i>,joy,0.7512426376342773
+<i>I'm weak.,neutral,0.43041303753852844
+I need help sometimes.</i>,sadness,0.8333041071891785
+- [breathing rapidly],fear,0.49212515354156494
+- [palpitations recede],neutral,0.7798664569854736
+[exhales],neutral,0.9174379706382751
+[gasps],neutral,0.8055470585823059
+[breathing rapidly],fear,0.6214252710342407
+[exhales],neutral,0.9174379706382751
+"[inhales deeply, exhales]",neutral,0.4732857346534729
+[players clamoring],neutral,0.861699104309082
+[sighs],disgust,0.4457285702228546
+[door opens],neutral,0.8056136965751648
+"Riley, you okay?",anger,0.4204671084880829
+Yeah.,neutral,0.8143123984336853
+I mean... no.,disgust,0.48919743299484253
+I was such a jerk to you guys.,disgust,0.5214827656745911
+When you guys told me you were,neutral,0.5860311985015869
+"going to a different school,",surprise,0.4198320806026459
+I freaked out.,fear,0.9131878018379211
+And... [sighs],sadness,0.6542797088623047
+I'm so sorry.,sadness,0.9676152467727661
+If you don't want to,sadness,0.3711269497871399
+be friends anymore...,sadness,0.6297814249992371
+I get it.,neutral,0.6302219033241272
+But...,neutral,0.6562267541885376
+I really hope that,joy,0.7650332450866699
+you can forgive me.,sadness,0.49818214774131775
+Someday.,sadness,0.42662209272384644
+[♪ hopeful music playing],joy,0.7445209622383118
+[coach blows whistle],anger,0.4421006441116333
+"- [coach] Let's go, ladies!",joy,0.6987099647521973
+- Come on.,neutral,0.6968659162521362
+We've got a game to finish.,neutral,0.9081103801727295
+"[faint chiming, clinking]",anger,0.5478571057319641
+[gasps],neutral,0.8055470585823059
+Joy...,neutral,0.4686362147331238
+Riley wants you.,neutral,0.9026114344596863
+[sighs],disgust,0.4457285702228546
+[players clamoring],neutral,0.861699104309082
+[players cheering],joy,0.9794027209281921
+[Valentina] Riley!,surprise,0.666572093963623
+[♪ uplifting music playing],joy,0.9575865864753723
+[Sofia] Yes!,surprise,0.35261595249176025
+[player] Whoo!,surprise,0.8880293965339661
+[players laughing],joy,0.8320737481117249
+- [indistinct chatter],neutral,0.8050636649131775
+- [all laughing],joy,0.7690793871879578
+"Hey, Minnesota,",neutral,0.4419327676296234
+how long are you gonna,neutral,0.753946840763092
+stare at your phone?,surprise,0.5877588987350464
+It's almost 2:00.,neutral,0.675244152545929
+Coach is gonna post,neutral,0.7128691673278809
+the list any minute.,neutral,0.9209049344062805
+- Okay. 2:00 p.m. That's in...,neutral,0.6175187230110168
+- Six minutes.,neutral,0.8322099447250366
+And what happens if we don't,neutral,0.541277289390564
+become a Fire Hawk?,surprise,0.7272528409957886
+"Well, thanks for asking, Joy.",joy,0.5992041826248169
+I'll tell you.,neutral,0.7658652067184448
+"First, Mom and Dad",neutral,0.6736381649971008
+are very disappointed.,sadness,0.9634372591972351
+"We don't go pro,",neutral,0.37445300817489624
+and we find work,neutral,0.620816171169281
+as an ethnomusicologist...,fear,0.5376337766647339
+even though we don't,neutral,0.7385087013244629
+really know what that is.,surprise,0.7784542441368103
+"We have no friends,",sadness,0.9640669822692871
+and we die alone.,sadness,0.8890327215194702
+- [screams],fear,0.83236163854599
+"- Okay, okay.",neutral,0.41200193762779236
+None of that,neutral,0.8013016581535339
+is happening right now.,neutral,0.8130272030830383
+- Is it?,surprise,0.7314860224723816
+- No.,neutral,0.8451887965202332
+Great! So why don't we take,joy,0.9040970802307129
+a seat in our special chair.,neutral,0.3955715000629425
+"Yeah, that's a great idea.",joy,0.8743463158607483
+[sighs in relief],sadness,0.4885626435279846
+See? Isn't that better?,surprise,0.3462892174720764
+"[distorted] Oh, yeah,",neutral,0.4462330639362335
+that's the stuff.,disgust,0.4908197522163391
+We can't control whether Riley,neutral,0.8719266057014465
+makes the team.,neutral,0.4414815306663513
+But what can we control?,neutral,0.5975738763809204
+"- Well, um... Oh!",joy,0.27568188309669495
+- [cup clattering],anger,0.32312101125717163
+Riley has a Spanish test,neutral,0.7574906945228577
+tomorrow. We need to study.,sadness,0.7580193877220154
+Oh! You're right.,surprise,0.7218981981277466
+- We totally...,neutral,0.42899513244628906
+- <i>Olvidamos!</i>,surprise,0.6354122161865234
+- What's that mean?,surprise,0.9216481447219849
+"- ""Forgot.""",neutral,0.5436387062072754
+[Fear] Someone paid attention,fear,0.9873600602149963
+in class.,neutral,0.7146723866462708
+[Disgust] I never would've,disgust,0.9788493514060974
+thought of that.,surprise,0.5258674025535583
+- You're clearly an expert.,neutral,0.7535592317581177
+- [Envy] <i>Muchas gracias.</i>,neutral,0.5736033320426941
+"Oh, thanks, guys.",joy,0.6106730103492737
+"Plus, we followed our new",neutral,0.9281649589538574
+varsity caliber,neutral,0.8874205350875854
+training program.,neutral,0.7593073844909668
+"Oh, I wish I thought of that.",surprise,0.7106332778930664
+"Newsflash, you did!",surprise,0.847571611404419
+"Wait, you're right, I did.",neutral,0.9122059941291809
+[chuckles],neutral,0.7589215636253357
+I'm jealous of myself.,anger,0.8203070759773254
+Thanks for the reminder.,neutral,0.666779637336731
+[male voice] You're welcome!,joy,0.4297226071357727
+- Who said that?,surprise,0.9273584485054016
+"- It's my new buddy, Pouchy.",joy,0.3490399420261383
+"Hi, everybody. I'm Pouchy!",joy,0.7602896690368652
+Confetti if we make the team!,joy,0.3570083677768707
+- Good idea. Ah!,joy,0.9358618259429932
+- [party horn blows],anger,0.36721423268318176
+"That's great, but either way,",joy,0.8653178811073303
+we love our girl.,joy,0.8134862780570984
+Confetti if we don't!,anger,0.8819788694381714
+- [party horn blows],anger,0.36721423268318176
+- [Fear coughs],fear,0.975104570388794
+- [phone vibrates],neutral,0.6567909717559814
+- [gasps],neutral,0.6995549201965332
+"Oh, is it Coach's email?",surprise,0.7964884638786316
+No. It's Bree and Grace.,neutral,0.9313008785247803
+[chuckles],neutral,0.7589215636253357
+Aw. I miss those girls.,sadness,0.9687073826789856
+Oh. Remember when,neutral,0.7641184329986572
+"Bree and Grace,",neutral,0.8232331871986389
+- and us used to...,neutral,0.648892343044281
+- You're still early.,neutral,0.8347623944282532
+"- No, no, no. Too early.",neutral,0.3298783004283905
+- Go downstairs.,neutral,0.8449880480766296
+I'll just be downstairs,neutral,0.9145044088363647
+if you need me.,neutral,0.8408070206642151
+[Joy] <i>It's 3 minutes to 2:00.</i>,neutral,0.889305591583252
+- She's got this.,surprise,0.5524106621742249
+- 'Cause she's got us.,anger,0.35770633816719055
+"Ooh, yeah! Right? 'Cause",surprise,0.38260915875434875
+she's... [nervously] Maybe?,fear,0.9200629591941833
+"All right, Embarrassment.",disgust,0.9579238295555115
+"Everybody,",neutral,0.8906213045120239
+look at Embarrassment!,disgust,0.9452715516090393
+[whimpers],disgust,0.4033295214176178
+"Hey, look, if you don't",anger,0.5777567625045776
+"make it this year,",neutral,0.8888104557991028
+there's always next year.,neutral,0.9389039278030396
+I know.,neutral,0.3984002470970154
+- I love our girl.,joy,0.9513839483261108
+- How could you not?,surprise,0.9365837574005127
+<i>She's super smart.</i>,neutral,0.7132455110549927
+[Sadness] <i>And great at hockey.</i>,sadness,0.9870800375938416
+[Disgust],disgust,0.977814257144928
+<i>She's really creative.</i>,joy,0.655640721321106
+"She can be bored,",sadness,0.6464435458183289
+but never boring.,sadness,0.8964306712150574
+But she can be a little,neutral,0.7920350432395935
+sarcastic from time to time.,neutral,0.7312098145484924
+[Fear] <i>She can have,fear,0.9816868305206299
+really bad ideas.</i>,disgust,0.6741726398468018
+"[Anger] <i>Occasionally, she can",anger,0.9672338366508484
+do the wrong thing.</i>,anger,0.7056077718734741
+"[Joy] <i>And sometimes, she can be",neutral,0.6056653261184692
+too hard on herself.</i>,sadness,0.6280285120010376
+<i>But every bit of Riley,neutral,0.7592259645462036
+makes her who she is.</i>,neutral,0.9218437671661377
+<i>And we love all of our girl.</i>,joy,0.6292432546615601
+"<i>Every messy,",neutral,0.36046308279037476
+beautiful piece of her.</i>,joy,0.886847972869873
+- [phone vibrates],neutral,0.6567909717559814
+- [gasps],neutral,0.6995549201965332
+[♪ hopeful music ends],joy,0.6240639090538025
+[♪ upbeat music playing],joy,0.9683204889297485
+"So, Riley, how was camp?",neutral,0.801258385181427
+"Okay, we talked about this.",neutral,0.8268557786941528
+We tell them everything.,neutral,0.9234868288040161
+Uh...,neutral,0.7905620336532593
+But what about sneaking,neutral,0.830341100692749
+- into Coach's office?,surprise,0.8439087867736816
+- What about hitting Grace?,neutral,0.545647144317627
+- Remember the lying?,neutral,0.32334041595458984
+- Are we gonna,neutral,0.4491516649723053
+tell her about the Fire Hawks?,neutral,0.6043026447296143
+- She doesn't need to know.,neutral,0.6164382696151733
+- Objection.,neutral,0.7811196446418762
+<i>Pardon. Excusez moi.</i>,neutral,0.6963172554969788
+[console chimes],neutral,0.9130675196647644
+It was good.,joy,0.9620683789253235
+She goes away for three days,sadness,0.6622849702835083
+"and all we get is, ""good""?",neutral,0.862528920173645
+And what about,neutral,0.8653699159622192
+the red in her hair?,surprise,0.8204500675201416
+Did she join a gang?,neutral,0.4239904284477234
+"Welcome back, Anxiety.",fear,0.8739162087440491
+She goes away for three days,sadness,0.6622849702835083
+"and all we get is, ""good""?",neutral,0.862528920173645
+Yeah. Sounds right.,neutral,0.7627785205841064
+Back to the game.,neutral,0.9171926379203796
+[commentator] <i>With a nice pass,neutral,0.8061758279800415
+"over to Reeves,</i>",neutral,0.9169761538505554
+<i>comes across center ice.</i>,neutral,0.510219931602478
+<i>Down to the line.,neutral,0.9338012933731079
+"Oh, what a move!</i>",surprise,0.84726482629776
+[♪ upbeat music continues],joy,0.9519127011299133
+[♪ mysterious music playing],fear,0.39518722891807556
+[♪ dramatic music playing],joy,0.6396477818489075
+[♪ pleasant music playing],joy,0.9639920592308044
+[♪ thrilling music playing],joy,0.9621039032936096
+[♪ thrilling music continues],joy,0.9657809138298035
+[♪ melancholic music playing],sadness,0.9395628571510315
+[♪ captivating music playing],joy,0.967587947845459
+[♪ enchanting music playing],joy,0.936810314655304
+"Okay, Deep Dark Secret.",neutral,0.6177796125411987
+It's time.,neutral,0.7069796919822693
+[groans],neutral,0.9251315593719482
+It's okay. Come on.,anger,0.3895801603794098
+[mumbling],neutral,0.38028815388679504
+"Okay. Let it go, buddy.",anger,0.47388747334480286
+What's the secret?,neutral,0.5066686868667603
+[sighs wearily],sadness,0.4644487202167511
+We burn hole in rug.,anger,0.754162609577179
+Really? That's it? Whew!,surprise,0.9179185628890991
+I thought you were gonna say,surprise,0.6560406684875488
+the time we peed in the pool.,disgust,0.4800938665866852
+- [whimpers],neutral,0.4410771429538727
+"- Oh, no, wait.",neutral,0.4385913014411926
+And he's gone.,neutral,0.3881433606147766

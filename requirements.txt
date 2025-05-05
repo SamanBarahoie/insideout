@@ -1,0 +1,6 @@
+pandas==1.5.3
+transformers==4.25.1
+torch==1.13.1
+matplotlib==3.6.2
+plotly==5.8.2
+streamlit==1.13.1
