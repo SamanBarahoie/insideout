@@ -4,6 +4,7 @@
 
 
 ![Logo](inside.png)
+
 # Movie Emotion Detector from Subtitle for InsideOut
 
 This project analyzes emotions in movie subtitles using an emotion classification model. It processes `.srt` subtitle files and predicts the emotions for each subtitle line along with their confidence scores. The results are saved in a CSV file for further analysis or visualization.
@@ -136,5 +137,4 @@ This will open an interactive dashboard in your browser where you can explore va
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
 
