@@ -1,2 +1,0 @@
-# insideout
-project analyzes emotions
